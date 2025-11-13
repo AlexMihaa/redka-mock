@@ -1,0 +1,692 @@
+{
+  "docs": [
+    {
+      "id": 71912,
+      "externalId": {
+        "imdb": "tt5180504",
+        "tmdb": null,
+        "kpHD": "1044004"
+      },
+      "name": "Ведьмак",
+      "enName": "The Witcher",
+      "alternativeName": "The Witcher",
+      "names": [
+        {
+          "name": "Ведьмак",
+          "language": "ru",
+          "type": "Русский"
+        },
+        {
+          "name": "The Witcher",
+          "language": "en",
+          "type": "Оригинальный"
+        },
+        {
+          "name": "Відьмак",
+          "language": "uk",
+          "type": "Украинский"
+        }
+      ],
+      "description": "Геральт из Ривии, наемный охотник за чудовищами, перенесший мутации, идет навстречу своей судьбе в неспокойном мире, где люди часто оказываются куда коварнее чудовищ.",
+      "shortDescription": "Охотник на монстров ищет своё место в мире",
+      "slogan": "Худшие монстры - это мы сами",
+      "type": "tv-series",
+      "typeNumber": 2,
+      "isSeries": true,
+      "status": "returning series",
+      "year": 2019,
+      "releaseQuality": "4K",
+      "releaseYears": {
+        "start": 2019,
+        "end": null
+      },
+      "rating": {
+        "kp": 7.1,
+        "imdb": 7.9,
+        "tmdb": 8.0,
+        "filmCritics": 7.5,
+        "russianFilmCritics": 6.8,
+        "await": null
+      },
+      "ratingMpaa": "TV-MA",
+      "ageRating": 18,
+      "votes": {
+        "kp": 256780,
+        "imdb": 6360,
+        "tmdb": 6360,
+        "filmCritics": 89,
+        "russianFilmCritics": 34,
+        "await": null
+      },
+      "seasonsInfo": [
+        {
+          "number": 1,
+          "episodesCount": 8
+        },
+        {
+          "number": 2,
+          "episodesCount": 8
+        },
+        {
+          "number": 3,
+          "episodesCount": 8
+        },
+        {
+          "number": 4,
+          "episodesCount": 9
+        }
+      ],
+      "budget": {
+        "value": 70000000,
+        "currency": "$"
+      },
+      "audience": null,
+      "movieLength": null,
+      "seriesLength": 60,
+      "totalSeriesLength": 1980,
+      "genres": [
+        {
+          "name": "фэнтези"
+        },
+        {
+          "name": "драма"
+        },
+        {
+          "name": "боевик"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/rY2c2LhN07CRKlAbRaDZxN2XjvK.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/rY2c2LhN07CRKlAbRaDZxN2XjvK.jpg"
+      },
+      "backdrop": {
+        "url": "https://image.tmdb.org/t/p/original/foGkPxpw9h8zln81j63mix5B7m8.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/foGkPxpw9h8zln81j63mix5B7m8.jpg"
+      },
+      "logo": {
+        "url": "https://image.tmdb.org/t/p/original/witcher_logo.png"
+      },
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://www.youtube.com/watch?v=ndl1W4ltcmg",
+            "name": "Официальный трейлер 4 сезона",
+            "site": "youtube",
+            "type": "TRAILER",
+            "size": 1080
+          }
+        ]
+      },
+      "networks": {
+        "items": [
+          {
+            "name": "Netflix",
+            "logo": {
+              "url": "https://image.tmdb.org/t/p/original/netflix_logo.png"
+            }
+          }
+        ]
+      },
+      "persons": [
+        {
+          "id": 301,
+          "name": "Генри Кавилл",
+          "enName": "Henry Cavill",
+          "photo": "https://image.tmdb.org/t/p/original/person301.jpg",
+          "description": "Geralt of Rivia",
+          "profession": "актеры",
+          "enProfession": "actor"
+        },
+        {
+          "id": 302,
+          "name": "Аня Чалотра",
+          "enName": "Anya Chalotra",
+          "photo": "https://image.tmdb.org/t/p/original/person302.jpg",
+          "description": "Yennefer of Vengerberg",
+          "profession": "актеры",
+          "enProfession": "actor"
+        },
+        {
+          "id": 303,
+          "name": "Фрейя Аллан",
+          "enName": "Freya Allan",
+          "photo": "https://image.tmdb.org/t/p/original/person303.jpg",
+          "description": "Ciri",
+          "profession": "актеры",
+          "enProfession": "actor"
+        }
+      ],
+      "facts": [
+        {
+          "value": "Сериал основан на серии книг польского писателя Анджея Сапковского",
+          "type": "FACT",
+          "spoiler": false
+        },
+        {
+          "value": "В 4 сезоне роль Геральта исполнит Лиам Хемсворт вместо Генри Кавилла",
+          "type": "FACT",
+          "spoiler": false
+        }
+      ],
+      "fees": null,
+      "premiere": {
+        "country": "США",
+        "world": "2019-12-20",
+        "russia": "2019-12-20",
+        "digital": "2019-12-20",
+        "cinema": null,
+        "bluray": null,
+        "dvd": null
+      },
+      "similarMovies": [
+        {
+          "id": 1399,
+          "name": "Игра престолов",
+          "enName": "Game of Thrones",
+          "alternativeName": null,
+          "type": "tv-series",
+          "poster": {
+            "url": "https://image.tmdb.org/t/p/original/got_poster.jpg",
+            "previewUrl": "https://image.tmdb.org/t/p/w500/got_poster.jpg"
+          },
+          "rating": {
+            "kp": 9.0,
+            "imdb": 9.2,
+            "tmdb": 8.4,
+            "filmCritics": null,
+            "russianFilmCritics": null,
+            "await": null
+          },
+          "year": 2011
+        }
+      ],
+      "sequelsAndPrequels": [],
+      "watchability": {
+        "items": [
+          {
+            "name": "Netflix",
+            "logo": {
+              "url": "https://netflix.com/logo.svg"
+            },
+            "url": "https://netflix.com/title/80189685"
+          }
+        ]
+      },
+      "lists": [
+        {
+          "category": "Популярные сериалы",
+          "slug": "popular-series-2025",
+          "rating": {
+            "kp": 7.1,
+            "imdb": 7.9,
+            "filmCritics": 7.5
+          }
+        }
+      ],
+      "top10": {
+        "position": 3,
+        "date": "2025-11-06"
+      },
+      "top250": null,
+      "updatedAt": "2025-11-13T16:45:00.000Z",
+      "createdAt": "2019-10-01T12:00:00.000Z"
+    },
+    {
+      "id": 911430,
+      "externalId": {
+        "imdb": "tt16311594",
+        "tmdb": null,
+        "kpHD": "45003510"
+      },
+      "name": "Формула 1",
+      "enName": "F1",
+      "alternativeName": "F1",
+      "names": [
+        {
+          "name": "Формула 1",
+          "language": "ru",
+          "type": "Русский"
+        },
+        {
+          "name": "Формула-1",
+          "language": "ru",
+          "type": "Альтернативный"
+        },
+        {
+          "name": "F1",
+          "language": "en",
+          "type": "Оригинальный"
+        },
+        {
+          "name": "F1: The Movie",
+          "language": "en",
+          "type": "Альтернативный"
+        }
+      ],
+      "description": "Легенда автоспорта Сонни Хейс возвращается из отставки, чтобы возглавить испытывающую трудности команду Формулы-1 и стать наставником молодого талантливого гонщика, одновременно стремясь к ещё одному шансу на славу.",
+      "shortDescription": "Легенда гонок возвращается на трек",
+      "slogan": "Скорость не знает возраста",
+      "type": "movie",
+      "typeNumber": 1,
+      "isSeries": false,
+      "status": "released",
+      "year": 2025,
+      "releaseQuality": "4K",
+      "releaseYears": null,
+      "rating": {
+        "kp": 8.2,
+        "imdb": 7.7,
+        "tmdb": 7.814,
+        "filmCritics": 7.9,
+        "russianFilmCritics": 7.4,
+        "await": null
+      },
+      "ratingMpaa": "PG-13",
+      "ageRating": 12,
+      "votes": {
+        "kp": 67890,
+        "imdb": 2541,
+        "tmdb": 2541,
+        "filmCritics": 156,
+        "russianFilmCritics": 78,
+        "await": null
+      },
+      "seasonsInfo": null,
+      "budget": {
+        "value": 300000000,
+        "currency": "$"
+      },
+      "audience": [
+        {
+          "count": 42000000,
+          "country": "США"
+        },
+        {
+          "count": 3500000,
+          "country": "Россия"
+        }
+      ],
+      "movieLength": 138,
+      "seriesLength": null,
+      "totalSeriesLength": null,
+      "genres": [
+        {
+          "name": "боевик"
+        },
+        {
+          "name": "драма"
+        },
+        {
+          "name": "спорт"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        },
+        {
+          "name": "Великобритания"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/XDDweAK5vyUwCoX1NYbu9HlwFK.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/XDDweAK5vyUwCoX1NYbu9HlwFK.jpg"
+      },
+      "backdrop": {
+        "url": "https://image.tmdb.org/t/p/original/ZtcGMc204JsNqfjS9lU6udRgpo.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/ZtcGMc204JsNqfjS9lU6udRgpo.jpg"
+      },
+      "logo": null,
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://www.youtube.com/watch?v=example_f1",
+            "name": "Официальный трейлер",
+            "site": "youtube",
+            "type": "TRAILER",
+            "size": 2160
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=example_f1_teaser",
+            "name": "Тизер трейлер",
+            "site": "youtube",
+            "type": "TEASER",
+            "size": 1080
+          }
+        ]
+      },
+      "networks": null,
+      "persons": [
+        {
+          "id": 401,
+          "name": "Брэд Питт",
+          "enName": "Brad Pitt",
+          "photo": "https://image.tmdb.org/t/p/original/person401.jpg",
+          "description": "Sonny Hayes",
+          "profession": "актеры",
+          "enProfession": "actor"
+        },
+        {
+          "id": 402,
+          "name": "Дэмсон Идрис",
+          "enName": "Damson Idris",
+          "photo": "https://image.tmdb.org/t/p/original/person402.jpg",
+          "description": "Joshua Pearce",
+          "profession": "актеры",
+          "enProfession": "actor"
+        },
+        {
+          "id": 403,
+          "name": "Хавьер Бардем",
+          "enName": "Javier Bardem",
+          "photo": "https://image.tmdb.org/t/p/original/person403.jpg",
+          "description": "Team Principal",
+          "profession": "актеры",
+          "enProfession": "actor"
+        },
+        {
+          "id": 404,
+          "name": "Джозеф Косински",
+          "enName": "Joseph Kosinski",
+          "photo": "https://image.tmdb.org/t/p/original/person404.jpg",
+          "description": null,
+          "profession": "режиссеры",
+          "enProfession": "director"
+        }
+      ],
+      "facts": [
+        {
+          "value": "Съёмки проходили на реальных гонках Формулы-1",
+          "type": "FACT",
+          "spoiler": false
+        },
+        {
+          "value": "Брэд Питт проходил реальную гоночную подготовку",
+          "type": "FACT",
+          "spoiler": false
+        },
+        {
+          "value": "В фильме используются настоящие болиды F1",
+          "type": "FACT",
+          "spoiler": false
+        }
+      ],
+      "fees": {
+        "world": {
+          "value": 850000000,
+          "currency": "$"
+        },
+        "russia": {
+          "value": 2100000000,
+          "currency": "₽"
+        },
+        "usa": {
+          "value": 320000000,
+          "currency": "$"
+        }
+      },
+      "premiere": {
+        "country": "США",
+        "world": "2025-06-25",
+        "russia": "2025-06-26",
+        "digital": null,
+        "cinema": "2025-06-25",
+        "bluray": "2025-10-15",
+        "dvd": null
+      },
+      "similarMovies": [
+        {
+          "id": 361743,
+          "name": "Форсаж 7",
+          "enName": "Furious 7",
+          "alternativeName": null,
+          "type": "movie",
+          "poster": {
+            "url": "https://image.tmdb.org/t/p/original/furious7.jpg",
+            "previewUrl": "https://image.tmdb.org/t/p/w500/furious7.jpg"
+          },
+          "rating": {
+            "kp": 7.4,
+            "imdb": 7.1,
+            "tmdb": 7.2,
+            "filmCritics": null,
+            "russianFilmCritics": null,
+            "await": null
+          },
+          "year": 2015
+        },
+        {
+          "id": 531219,
+          "name": "Рокетмен",
+          "enName": "Rocketman",
+          "alternativeName": null,
+          "type": "movie",
+          "poster": {
+            "url": "https://image.tmdb.org/t/p/original/rocketman.jpg",
+            "previewUrl": "https://image.tmdb.org/t/p/w500/rocketman.jpg"
+          },
+          "rating": {
+            "kp": 7.6,
+            "imdb": 7.3,
+            "tmdb": 7.4,
+            "filmCritics": null,
+            "russianFilmCritics": null,
+            "await": null
+          },
+          "year": 2019
+        }
+      ],
+      "sequelsAndPrequels": [],
+      "watchability": {
+        "items": [
+          {
+            "name": "Кинопоиск HD",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/logo.svg"
+            },
+            "url": "https://hd.kinopoisk.ru/film/911430"
+          },
+          {
+            "name": "ivi",
+            "logo": {
+              "url": "https://www.ivi.ru/logo.svg"
+            },
+            "url": "https://www.ivi.ru/watch/f1-movie"
+          }
+        ]
+      },
+      "lists": [
+        {
+          "category": "Спортивные фильмы",
+          "slug": "best-sports-movies",
+          "rating": {
+            "kp": 8.2,
+            "imdb": 7.7,
+            "filmCritics": 7.9
+          }
+        }
+      ],
+      "top10": {
+        "position": 1,
+        "date": "2025-07-01"
+      },
+      "top250": {
+        "position": 89,
+        "date": "2025-08-15"
+      },
+      "updatedAt": "2025-11-13T18:00:00.000Z",
+      "createdAt": "2024-06-15T14:30:00.000Z"
+    },
+    {
+      "id": 1248226,
+      "externalId": {
+        "imdb": "tt31425731",
+        "tmdb": null,
+        "kpHD": "9077164"
+      },
+      "name": "Убойная суббота",
+      "enName": "Playdate",
+      "alternativeName": "Playdate",
+      "names": [
+        {
+          "name": "Убойная суббота",
+          "language": "ru",
+          "type": "Русский"
+        },
+        {
+          "name": "Playdate",
+          "language": "en",
+          "type": "Оригинальный"
+        }
+      ],
+      "description": "Отец-домосед Брайан принимает приглашение на детский праздник другого отца-домоседа, но всё идёт совершенно не по плану и постепенно скатывается в хаос с бандитами, драками, стрельбой и взрывами.",
+      "shortDescription": "Обычный детский праздник превращается в хаос",
+      "slogan": "Родительство - это опасная игра",
+      "type": "movie",
+      "typeNumber": 1,
+      "isSeries": false,
+      "status": "released",
+      "year": 2025,
+      "releaseQuality": "WEB-DL",
+      "releaseYears": null,
+      "rating": {
+        "kp": 7.2,
+        "imdb": 7.177,
+        "tmdb": 7.177,
+        "filmCritics": 6.8,
+        "russianFilmCritics": 6.5,
+        "await": null
+      },
+      "ratingMpaa": "PG-13",
+      "ageRating": 13,
+      "votes": {
+        "kp": 3450,
+        "imdb": 31,
+        "tmdb": 31,
+        "filmCritics": 12,
+        "russianFilmCritics": 8,
+        "await": null
+      },
+      "seasonsInfo": null,
+      "budget": {
+        "value": 15000000,
+        "currency": "$"
+      },
+      "audience": null,
+      "movieLength": 98,
+      "seriesLength": null,
+      "totalSeriesLength": null,
+      "genres": [
+        {
+          "name": "боевик"
+        },
+        {
+          "name": "комедия"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/fGodXWqJkkkbSebPIlxLSygV8GY.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/fGodXWqJkkkbSebPIlxLSygV8GY.jpg"
+      },
+      "backdrop": {
+        "url": "https://image.tmdb.org/t/p/original/5lQ4euO30sDin5nCifvi0vURFNd.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/5lQ4euO30sDin5nCifvi0vURFNd.jpg"
+      },
+      "logo": null,
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://www.youtube.com/watch?v=example_playdate",
+            "name": "Официальный трейлер",
+            "site": "youtube",
+            "type": "TRAILER",
+            "size": 1080
+          }
+        ]
+      },
+      "networks": null,
+      "persons": [
+        {
+          "id": 501,
+          "name": "Кевин Харт",
+          "enName": "Kevin Hart",
+          "photo": "https://image.tmdb.org/t/p/original/person501.jpg",
+          "description": "Brian",
+          "profession": "актеры",
+          "enProfession": "actor"
+        },
+        {
+          "id": 502,
+          "name": "Бен Шварц",
+          "enName": "Ben Schwartz",
+          "photo": "https://image.tmdb.org/t/p/original/person502.jpg",
+          "description": "Gary",
+          "profession": "актеры",
+          "enProfession": "actor"
+        }
+      ],
+      "facts": [
+        {
+          "value": "Фильм снят в жанре экшн-комедии для семейного просмотра",
+          "type": "FACT",
+          "spoiler": false
+        }
+      ],
+      "fees": {
+        "world": {
+          "value": 85000000,
+          "currency": "$"
+        },
+        "russia": null,
+        "usa": {
+          "value": 42000000,
+          "currency": "$"
+        }
+      },
+      "premiere": {
+        "country": "США",
+        "world": "2025-11-05",
+        "russia": "2025-11-07",
+        "digital": "2025-11-05",
+        "cinema": null,
+        "bluray": null,
+        "dvd": null
+      },
+      "similarMovies": [],
+      "sequelsAndPrequels": [],
+      "watchability": {
+        "items": [
+          {
+            "name": "Кинопоиск HD",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/logo.svg"
+            },
+            "url": "https://hd.kinopoisk.ru/film/1248226"
+          }
+        ]
+      },
+      "lists": [],
+      "top10": null,
+      "top250": null,
+      "updatedAt": "2025-11-13T19:15:00.000Z",
+      "createdAt": "2024-08-20T11:45:00.000Z"
+    }
+  ],
+  "total": 12547,
+  "limit": 10,
+  "page": 1,
+  "pages": 1255
+}
