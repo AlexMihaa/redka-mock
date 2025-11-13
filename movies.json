@@ -1,0 +1,650 @@
+{
+  "docs": [
+    {
+      "id": 425274,
+      "externalId": {
+        "imdb": "tt4712810",
+        "tmdb": null,
+        "kpHD": "915178"
+      },
+      "name": "Иллюзия обмана 3",
+      "enName": "Now You See Me: Now You Don't",
+      "alternativeName": "Now You See Me: Now You Don't",
+      "names": [
+        {
+          "name": "Иллюзия обмана 3",
+          "language": "ru",
+          "type": "Русский"
+        },
+        {
+          "name": "Now You See Me: Now You Don't",
+          "language": "en",
+          "type": "Оригинальный"
+        }
+      ],
+      "description": "«4 всадника» возвращаются вместе с молодым поколением иллюзионистов, демонстрируя головокружительные трюки, магию и превращения, каких ещё не видел мир.",
+      "shortDescription": "Иллюзионисты возвращаются с новыми трюками",
+      "slogan": "Магия возвращается",
+      "type": "movie",
+      "typeNumber": 1,
+      "isSeries": false,
+      "status": "released",
+      "year": 2025,
+      "releaseQuality": "TC",
+      "releaseYears": null,
+      "rating": {
+        "kp": 7.1,
+        "imdb": 7.1,
+        "tmdb": 7.109,
+        "filmCritics": null,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "ratingMpaa": "PG-13",
+      "ageRating": 12,
+      "votes": {
+        "kp": 1250,
+        "imdb": 23,
+        "tmdb": 23,
+        "filmCritics": null,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "seasonsInfo": null,
+      "budget": {
+        "value": 75000000,
+        "currency": "$"
+      },
+      "audience": null,
+      "movieLength": 120,
+      "seriesLength": null,
+      "totalSeriesLength": null,
+      "genres": [
+        {
+          "name": "триллер"
+        },
+        {
+          "name": "криминал"
+        },
+        {
+          "name": "детектив"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/mLc5TztpCN7SRD9jloCqvj1ucKl.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/mLc5TztpCN7SRD9jloCqvj1ucKl.jpg"
+      },
+      "backdrop": {
+        "url": "https://image.tmdb.org/t/p/original/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg"
+      },
+      "logo": null,
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://www.youtube.com/watch?v=example1",
+            "name": "Официальный трейлер",
+            "site": "youtube",
+            "type": "TRAILER",
+            "size": 1080
+          }
+        ]
+      },
+      "networks": null,
+      "persons": [
+        {
+          "id": 1,
+          "name": "Джесси Айзенберг",
+          "enName": "Jesse Eisenberg",
+          "photo": "https://image.tmdb.org/t/p/original/person1.jpg",
+          "description": "J. Daniel Atlas",
+          "profession": "актеры",
+          "enProfession": "actor"
+        },
+        {
+          "id": 2,
+          "name": "Марк Руффало",
+          "enName": "Mark Ruffalo",
+          "photo": "https://image.tmdb.org/t/p/original/person2.jpg",
+          "description": "Dylan Rhodes",
+          "profession": "актеры",
+          "enProfession": "actor"
+        }
+      ],
+      "facts": [
+        {
+          "value": "Съёмки третьей части начались через 8 лет после выхода второго фильма",
+          "type": "FACT",
+          "spoiler": false
+        }
+      ],
+      "fees": {
+        "world": {
+          "value": 350000000,
+          "currency": "$"
+        },
+        "russia": null,
+        "usa": {
+          "value": 120000000,
+          "currency": "$"
+        }
+      },
+      "premiere": {
+        "country": "США",
+        "world": "2025-11-12",
+        "russia": "2025-11-14",
+        "digital": null,
+        "cinema": "2025-11-12",
+        "bluray": null,
+        "dvd": null
+      },
+      "similarMovies": [
+        {
+          "id": 291805,
+          "name": "Иллюзия обмана 2",
+          "enName": "Now You See Me 2",
+          "alternativeName": null,
+          "type": "movie",
+          "poster": {
+            "url": "https://image.tmdb.org/t/p/original/similar1.jpg",
+            "previewUrl": "https://image.tmdb.org/t/p/w500/similar1.jpg"
+          },
+          "rating": {
+            "kp": 7.0,
+            "imdb": 6.5,
+            "tmdb": 6.8,
+            "filmCritics": null,
+            "russianFilmCritics": null,
+            "await": null
+          },
+          "year": 2016
+        }
+      ],
+      "sequelsAndPrequels": [
+        {
+          "id": 75656,
+          "name": "Иллюзия обмана",
+          "enName": "Now You See Me",
+          "alternativeName": null,
+          "type": "movie",
+          "poster": {
+            "url": "https://image.tmdb.org/t/p/original/prequel1.jpg",
+            "previewUrl": "https://image.tmdb.org/t/p/w500/prequel1.jpg"
+          },
+          "rating": {
+            "kp": 7.6,
+            "imdb": 7.2,
+            "tmdb": 7.4,
+            "filmCritics": null,
+            "russianFilmCritics": null,
+            "await": null
+          },
+          "year": 2013
+        }
+      ],
+      "watchability": {
+        "items": [
+          {
+            "name": "Кинопоиск HD",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/logo.svg"
+            },
+            "url": "https://hd.kinopoisk.ru/film/425274"
+          }
+        ]
+      },
+      "lists": [
+        {
+          "category": "Популярное",
+          "slug": "popular-movies-2025",
+          "rating": {
+            "kp": 7.1,
+            "imdb": 7.1,
+            "filmCritics": null
+          }
+        }
+      ],
+      "top10": null,
+      "top250": null,
+      "updatedAt": "2025-11-13T10:00:00.000Z",
+      "createdAt": "2024-01-15T08:30:00.000Z"
+    },
+    {
+      "id": 1184918,
+      "externalId": {
+        "imdb": "tt29623480",
+        "tmdb": null,
+        "kpHD": "5457899"
+      },
+      "name": "Дикий робот",
+      "enName": "The Wild Robot",
+      "alternativeName": "The Wild Robot",
+      "names": [
+        {
+          "name": "Дикий робот",
+          "language": "ru",
+          "type": "Русский"
+        },
+        {
+          "name": "The Wild Robot",
+          "language": "en",
+          "type": "Оригинальный"
+        }
+      ],
+      "description": "После кораблекрушения, умный робот по имени Роз оказывается на необитаемом острове. Чтобы выжить в суровых условиях, Роз налаживает связь с животными острова и заботится об одиноком гусенке-сироте.",
+      "shortDescription": "Робот учится выживать на необитаемом острове",
+      "slogan": "Выжить можно только вместе",
+      "type": "cartoon",
+      "typeNumber": 3,
+      "isSeries": false,
+      "status": "released",
+      "year": 2024,
+      "releaseQuality": "4K",
+      "releaseYears": null,
+      "rating": {
+        "kp": 8.4,
+        "imdb": 8.2,
+        "tmdb": 8.319,
+        "filmCritics": 8.5,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "ratingMpaa": "PG",
+      "ageRating": 6,
+      "votes": {
+        "kp": 45230,
+        "imdb": 5473,
+        "tmdb": 5473,
+        "filmCritics": 120,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "seasonsInfo": null,
+      "budget": {
+        "value": 78000000,
+        "currency": "$"
+      },
+      "audience": [
+        {
+          "count": 15000000,
+          "country": "США"
+        }
+      ],
+      "movieLength": 102,
+      "seriesLength": null,
+      "totalSeriesLength": null,
+      "genres": [
+        {
+          "name": "мультфильм"
+        },
+        {
+          "name": "фантастика"
+        },
+        {
+          "name": "семейный"
+        },
+        {
+          "name": "драма"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/sDTumQBxhIyYbZ9acsTtoLfb5ZG.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/sDTumQBxhIyYbZ9acsTtoLfb5ZG.jpg"
+      },
+      "backdrop": {
+        "url": "https://image.tmdb.org/t/p/original/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg"
+      },
+      "logo": {
+        "url": "https://image.tmdb.org/t/p/original/logo_wild_robot.png"
+      },
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://www.youtube.com/watch?v=example2",
+            "name": "Официальный трейлер",
+            "site": "youtube",
+            "type": "TRAILER",
+            "size": 1080
+          }
+        ]
+      },
+      "networks": null,
+      "persons": [
+        {
+          "id": 101,
+          "name": "Люпита Нионго",
+          "enName": "Lupita Nyong'o",
+          "photo": "https://image.tmdb.org/t/p/original/person101.jpg",
+          "description": "Roz (voice)",
+          "profession": "актеры",
+          "enProfession": "actor"
+        },
+        {
+          "id": 102,
+          "name": "Педро Паскаль",
+          "enName": "Pedro Pascal",
+          "photo": "https://image.tmdb.org/t/p/original/person102.jpg",
+          "description": "Fink (voice)",
+          "profession": "актеры",
+          "enProfession": "actor"
+        }
+      ],
+      "facts": [
+        {
+          "value": "Мультфильм основан на одноимённой книге Питера Брауна",
+          "type": "FACT",
+          "spoiler": false
+        },
+        {
+          "value": "Анимация создавалась студией DreamWorks Animation",
+          "type": "FACT",
+          "spoiler": false
+        }
+      ],
+      "fees": {
+        "world": {
+          "value": 320000000,
+          "currency": "$"
+        },
+        "russia": {
+          "value": 450000000,
+          "currency": "₽"
+        },
+        "usa": {
+          "value": 140000000,
+          "currency": "$"
+        }
+      },
+      "premiere": {
+        "country": "США",
+        "world": "2024-09-12",
+        "russia": "2024-09-26",
+        "digital": "2024-11-05",
+        "cinema": "2024-09-12",
+        "bluray": "2024-12-10",
+        "dvd": null
+      },
+      "similarMovies": [],
+      "sequelsAndPrequels": [],
+      "watchability": {
+        "items": [
+          {
+            "name": "Кинопоиск HD",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/logo.svg"
+            },
+            "url": "https://hd.kinopoisk.ru/film/1184918"
+          },
+          {
+            "name": "Okko",
+            "logo": {
+              "url": "https://okko.tv/logo.svg"
+            },
+            "url": "https://okko.tv/movie/the-wild-robot"
+          }
+        ]
+      },
+      "lists": [
+        {
+          "category": "Лучшие мультфильмы",
+          "slug": "best-cartoons-2024",
+          "rating": {
+            "kp": 8.4,
+            "imdb": 8.2,
+            "filmCritics": 8.5
+          }
+        }
+      ],
+      "top10": null,
+      "top250": {
+        "position": 187,
+        "date": "2024-11-01"
+      },
+      "updatedAt": "2025-11-13T12:30:00.000Z",
+      "createdAt": "2024-03-20T10:15:00.000Z"
+    },
+    {
+      "id": 1062722,
+      "externalId": {
+        "imdb": "tt1312221",
+        "tmdb": null,
+        "kpHD": "464475"
+      },
+      "name": "Франкенштейн",
+      "enName": "Frankenstein",
+      "alternativeName": "Frankenstein",
+      "names": [
+        {
+          "name": "Франкенштейн",
+          "language": "ru",
+          "type": "Русский"
+        },
+        {
+          "name": "Frankenstein",
+          "language": "en",
+          "type": "Оригинальный"
+        }
+      ],
+      "description": "Блестящий, но самовлюблённый учёный проводит жестокий эксперимент, в результате которого он оживляет мёртвое тело. Учёный отвергает своё создание, однако их судьбы оказываются трагически связаны.",
+      "shortDescription": "Новая экранизация классического романа ужасов",
+      "slogan": "Некоторые границы не должны быть пересечены",
+      "type": "movie",
+      "typeNumber": 1,
+      "isSeries": false,
+      "status": "released",
+      "year": 2025,
+      "releaseQuality": "4K",
+      "releaseYears": null,
+      "rating": {
+        "kp": 7.5,
+        "imdb": 7.8,
+        "tmdb": 8.0,
+        "filmCritics": 7.9,
+        "russianFilmCritics": 7.2,
+        "await": null
+      },
+      "ratingMpaa": "R",
+      "ageRating": 16,
+      "votes": {
+        "kp": 8960,
+        "imdb": 669,
+        "tmdb": 669,
+        "filmCritics": 45,
+        "russianFilmCritics": 23,
+        "await": null
+      },
+      "seasonsInfo": null,
+      "budget": {
+        "value": 95000000,
+        "currency": "$"
+      },
+      "audience": [
+        {
+          "count": 8500000,
+          "country": "США"
+        }
+      ],
+      "movieLength": 145,
+      "seriesLength": null,
+      "totalSeriesLength": null,
+      "genres": [
+        {
+          "name": "драма"
+        },
+        {
+          "name": "ужасы"
+        },
+        {
+          "name": "фэнтези"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        },
+        {
+          "name": "Великобритания"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/oCxLbnBBEmUCeRcmsBrmF9jEcHd.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/oCxLbnBBEmUCeRcmsBrmF9jEcHd.jpg"
+      },
+      "backdrop": {
+        "url": "https://image.tmdb.org/t/p/original/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg"
+      },
+      "logo": null,
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://www.youtube.com/watch?v=example3",
+            "name": "Официальный трейлер",
+            "site": "youtube",
+            "type": "TRAILER",
+            "size": 1080
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=example3b",
+            "name": "Тизер",
+            "site": "youtube",
+            "type": "TEASER",
+            "size": 720
+          }
+        ]
+      },
+      "networks": null,
+      "persons": [
+        {
+          "id": 201,
+          "name": "Оскар Айзек",
+          "enName": "Oscar Isaac",
+          "photo": "https://image.tmdb.org/t/p/original/person201.jpg",
+          "description": "Victor Frankenstein",
+          "profession": "актеры",
+          "enProfession": "actor"
+        },
+        {
+          "id": 202,
+          "name": "Миа Гот",
+          "enName": "Mia Goth",
+          "photo": "https://image.tmdb.org/t/p/original/person202.jpg",
+          "description": "The Creature",
+          "profession": "актеры",
+          "enProfession": "actor"
+        },
+        {
+          "id": 203,
+          "name": "Гильермо дель Торо",
+          "enName": "Guillermo del Toro",
+          "photo": "https://image.tmdb.org/t/p/original/person203.jpg",
+          "description": null,
+          "profession": "режиссеры",
+          "enProfession": "director"
+        }
+      ],
+      "facts": [
+        {
+          "value": "Фильм снял легендарный режиссёр Гильермо дель Торо",
+          "type": "FACT",
+          "spoiler": false
+        },
+        {
+          "value": "В роли монстра снялась Миа Гот, прошедшая сложный грим",
+          "type": "FACT",
+          "spoiler": false
+        }
+      ],
+      "fees": {
+        "world": {
+          "value": 285000000,
+          "currency": "$"
+        },
+        "russia": {
+          "value": 890000000,
+          "currency": "₽"
+        },
+        "usa": {
+          "value": 98000000,
+          "currency": "$"
+        }
+      },
+      "premiere": {
+        "country": "США",
+        "world": "2025-10-17",
+        "russia": "2025-10-17",
+        "digital": null,
+        "cinema": "2025-10-17",
+        "bluray": null,
+        "dvd": null
+      },
+      "similarMovies": [
+        {
+          "id": 424,
+          "name": "Форма воды",
+          "enName": "The Shape of Water",
+          "alternativeName": null,
+          "type": "movie",
+          "poster": {
+            "url": "https://image.tmdb.org/t/p/original/similar424.jpg",
+            "previewUrl": "https://image.tmdb.org/t/p/w500/similar424.jpg"
+          },
+          "rating": {
+            "kp": 7.3,
+            "imdb": 7.3,
+            "tmdb": 7.5,
+            "filmCritics": null,
+            "russianFilmCritics": null,
+            "await": null
+          },
+          "year": 2017
+        }
+      ],
+      "sequelsAndPrequels": [],
+      "watchability": {
+        "items": [
+          {
+            "name": "Кинопоиск HD",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/logo.svg"
+            },
+            "url": "https://hd.kinopoisk.ru/film/1062722"
+          }
+        ]
+      },
+      "lists": [
+        {
+          "category": "Ужасы",
+          "slug": "best-horror-2025",
+          "rating": {
+            "kp": 7.5,
+            "imdb": 7.8,
+            "filmCritics": 7.9
+          }
+        }
+      ],
+      "top10": null,
+      "top250": null,
+      "updatedAt": "2025-11-13T14:20:00.000Z",
+      "createdAt": "2024-05-10T09:00:00.000Z"
+    }
+  ],
+  "total": 86965,
+  "limit": 10,
+  "page": 1,
+  "pages": 8697
+}
