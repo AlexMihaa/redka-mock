@@ -1,0 +1,668 @@
+{
+  "docs": [
+    {
+      "id": 66732,
+      "externalId": {
+        "imdb": "tt4574334",
+        "tmdb": null,
+        "kpHD": "915196"
+      },
+      "name": "Очень странные дела",
+      "enName": "Stranger Things",
+      "alternativeName": "Stranger Things",
+      "names": [
+        {
+          "name": "Очень странные дела",
+          "language": "ru",
+          "type": "Русский"
+        },
+        {
+          "name": "Stranger Things",
+          "language": "en",
+          "type": "Оригинальный"
+        },
+        {
+          "name": "Дивні дива",
+          "language": "uk",
+          "type": "Украинский"
+        },
+        {
+          "name": "Загадочные события",
+          "language": "ru",
+          "type": "Альтернативный"
+        }
+      ],
+      "description": "Действие разворачивается в 1980-х годах в вымышленном городке Хокинс, штат Индиана. Когда пропадает местный мальчик, его друзья, семья и полиция пускаются на его поиски. В этом процессе они сталкиваются с тайными правительственными экспериментами, сверхъестественными силами и одной очень странной девочкой.",
+      "shortDescription": "Загадочное исчезновение ребенка в маленьком городке",
+      "slogan": "Тайны пугают. Дружба спасает.",
+      "type": "tv-series",
+      "typeNumber": 2,
+      "isSeries": true,
+      "status": "returning series",
+      "year": 2016,
+      "releaseQuality": "4K",
+      "releaseYears": {
+        "start": 2016,
+        "end": null
+      },
+      "rating": {
+        "kp": 8.5,
+        "imdb": 8.7,
+        "tmdb": 8.6,
+        "filmCritics": 8.3,
+        "russianFilmCritics": 8.0,
+        "await": null
+      },
+      "ratingMpaa": "TV-14",
+      "ageRating": 16,
+      "votes": {
+        "kp": 784560,
+        "imdb": 1245000,
+        "tmdb": 24890,
+        "filmCritics": 345,
+        "russianFilmCritics": 124,
+        "await": null
+      },
+      "seasonsInfo": [
+        {
+          "number": 1,
+          "episodesCount": 8
+        },
+        {
+          "number": 2,
+          "episodesCount": 9
+        },
+        {
+          "number": 3,
+          "episodesCount": 8
+        },
+        {
+          "number": 4,
+          "episodesCount": 9
+        },
+        {
+          "number": 5,
+          "episodesCount": 8
+        }
+      ],
+      "budget": null,
+      "audience": null,
+      "movieLength": null,
+      "seriesLength": 50,
+      "totalSeriesLength": 2100,
+      "genres": [
+        {
+          "name": "фантастика"
+        },
+        {
+          "name": "драма"
+        },
+        {
+          "name": "детектив"
+        },
+        {
+          "name": "ужасы"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/stranger_things_poster.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/stranger_things_poster.jpg"
+      },
+      "backdrop": {
+        "url": "https://image.tmdb.org/t/p/original/9P4IIMYY3HifqeruZq0ZZ9g7YUi.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/9P4IIMYY3HifqeruZq0ZZ9g7YUi.jpg"
+      },
+      "logo": {
+        "url": "https://image.tmdb.org/t/p/original/stranger_things_logo.png"
+      },
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://www.youtube.com/watch?v=b9EkMc79ZSU",
+            "name": "Официальный трейлер 5 сезона",
+            "site": "youtube",
+            "type": "TRAILER",
+            "size": 1080
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=XWxyRG_tckY",
+            "name": "Тизер 5 сезона",
+            "site": "youtube",
+            "type": "TEASER",
+            "size": 1080
+          }
+        ]
+      },
+      "networks": {
+        "items": [
+          {
+            "name": "Netflix",
+            "logo": {
+              "url": "https://image.tmdb.org/t/p/original/netflix_logo.png"
+            }
+          }
+        ]
+      },
+      "persons": [
+        {
+          "id": 601,
+          "name": "Милли Бобби Браун",
+          "enName": "Millie Bobby Brown",
+          "photo": "https://image.tmdb.org/t/p/original/person601.jpg",
+          "description": "Eleven",
+          "profession": "актеры",
+          "enProfession": "actor"
+        },
+        {
+          "id": 602,
+          "name": "Финн Вулфхард",
+          "enName": "Finn Wolfhard",
+          "photo": "https://image.tmdb.org/t/p/original/person602.jpg",
+          "description": "Mike Wheeler",
+          "profession": "актеры",
+          "enProfession": "actor"
+        },
+        {
+          "id": 603,
+          "name": "Вайнона Райдер",
+          "enName": "Winona Ryder",
+          "photo": "https://image.tmdb.org/t/p/original/person603.jpg",
+          "description": "Joyce Byers",
+          "profession": "актеры",
+          "enProfession": "actor"
+        },
+        {
+          "id": 604,
+          "name": "Дэвид Харбор",
+          "enName": "David Harbour",
+          "photo": "https://image.tmdb.org/t/p/original/person604.jpg",
+          "description": "Jim Hopper",
+          "profession": "актеры",
+          "enProfession": "actor"
+        }
+      ],
+      "facts": [
+        {
+          "value": "Сериал вдохновлён классическими фильмами ужасов 80-х годов",
+          "type": "FACT",
+          "spoiler": false
+        },
+        {
+          "value": "Братья Даффер изначально хотели назвать сериал 'Montauk'",
+          "type": "FACT",
+          "spoiler": false
+        },
+        {
+          "value": "5 сезон станет финальным в истории",
+          "type": "FACT",
+          "spoiler": false
+        }
+      ],
+      "fees": null,
+      "premiere": {
+        "country": "США",
+        "world": "2016-07-15",
+        "russia": "2016-07-15",
+        "digital": "2016-07-15",
+        "cinema": null,
+        "bluray": null,
+        "dvd": null
+      },
+      "similarMovies": [
+        {
+          "id": 1396,
+          "name": "Во все тяжкие",
+          "enName": "Breaking Bad",
+          "alternativeName": null,
+          "type": "tv-series",
+          "poster": {
+            "url": "https://image.tmdb.org/t/p/original/breaking_bad.jpg",
+            "previewUrl": "https://image.tmdb.org/t/p/w500/breaking_bad.jpg"
+          },
+          "rating": {
+            "kp": 9.0,
+            "imdb": 9.5,
+            "tmdb": 8.9,
+            "filmCritics": null,
+            "russianFilmCritics": null,
+            "await": null
+          },
+          "year": 2008
+        }
+      ],
+      "sequelsAndPrequels": [],
+      "watchability": {
+        "items": [
+          {
+            "name": "Netflix",
+            "logo": {
+              "url": "https://netflix.com/logo.svg"
+            },
+            "url": "https://netflix.com/title/80057281"
+          }
+        ]
+      },
+      "lists": [
+        {
+          "category": "Лучшие сериалы",
+          "slug": "best-series-all-time",
+          "rating": {
+            "kp": 8.5,
+            "imdb": 8.7,
+            "filmCritics": 8.3
+          }
+        }
+      ],
+      "top10": {
+        "position": 2,
+        "date": "2025-11-10"
+      },
+      "top250": {
+        "position": 45,
+        "date": "2024-12-01"
+      },
+      "updatedAt": "2025-11-13T20:30:00.000Z",
+      "createdAt": "2016-05-10T09:00:00.000Z"
+    },
+    {
+      "id": 301001,
+      "externalId": {
+        "imdb": "tt31078757",
+        "tmdb": null,
+        "kpHD": "10058918"
+      },
+      "name": "Госпожа Плеймен",
+      "enName": "Mrs Playmen",
+      "alternativeName": "Mrs Playmen",
+      "names": [
+        {
+          "name": "Госпожа Плеймен",
+          "language": "ru",
+          "type": "Русский"
+        },
+        {
+          "name": "Mrs Playmen",
+          "language": "en",
+          "type": "Оригинальный"
+        }
+      ],
+      "description": "История о женщине, которая бросила вызов консервативному обществу 70-х годов в Италии, создав революционный женский журнал.",
+      "shortDescription": "Революционный взгляд на женскую эмансипацию в Италии",
+      "slogan": "Свобода начинается с выбора",
+      "type": "tv-series",
+      "typeNumber": 2,
+      "isSeries": true,
+      "status": "returning series",
+      "year": 2025,
+      "releaseQuality": "WEB-DL",
+      "releaseYears": {
+        "start": 2025,
+        "end": null
+      },
+      "rating": {
+        "kp": 7.8,
+        "imdb": 7.5,
+        "tmdb": 7.6,
+        "filmCritics": 7.9,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "ratingMpaa": "TV-MA",
+      "ageRating": 18,
+      "votes": {
+        "kp": 2340,
+        "imdb": 145,
+        "tmdb": 85,
+        "filmCritics": 23,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "seasonsInfo": [
+        {
+          "number": 1,
+          "episodesCount": 7
+        }
+      ],
+      "budget": null,
+      "audience": null,
+      "movieLength": null,
+      "seriesLength": 55,
+      "totalSeriesLength": 385,
+      "genres": [
+        {
+          "name": "драма"
+        },
+        {
+          "name": "биография"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Италия"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/AhUe856Sj0KXQH3T8ppXa2Mlxwz.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/AhUe856Sj0KXQH3T8ppXa2Mlxwz.jpg"
+      },
+      "backdrop": {
+        "url": "https://image.tmdb.org/t/p/original/rk93UkcE9kw6cHiaYFcWQvNUuuq.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/rk93UkcE9kw6cHiaYFcWQvNUuuq.jpg"
+      },
+      "logo": null,
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://www.youtube.com/watch?v=example_mrs_playmen",
+            "name": "Официальный трейлер",
+            "site": "youtube",
+            "type": "TRAILER",
+            "size": 1080
+          }
+        ]
+      },
+      "networks": {
+        "items": [
+          {
+            "name": "Sky Italia",
+            "logo": {
+              "url": "https://image.tmdb.org/t/p/original/sky_logo.png"
+            }
+          }
+        ]
+      },
+      "persons": [
+        {
+          "id": 701,
+          "name": "Изабелла Феррари",
+          "enName": "Isabella Ferrari",
+          "photo": "https://image.tmdb.org/t/p/original/person701.jpg",
+          "description": "Adelina Tattilo",
+          "profession": "актеры",
+          "enProfession": "actor"
+        },
+        {
+          "id": 702,
+          "name": "Паола Кортеллези",
+          "enName": "Paola Cortellesi",
+          "photo": "https://image.tmdb.org/t/p/original/person702.jpg",
+          "description": "Maria",
+          "profession": "актеры",
+          "enProfession": "actor"
+        }
+      ],
+      "facts": [
+        {
+          "value": "Сериал основан на реальных событиях из истории итальского издательского бизнеса",
+          "type": "FACT",
+          "spoiler": false
+        }
+      ],
+      "fees": null,
+      "premiere": {
+        "country": "Италия",
+        "world": "2025-11-12",
+        "russia": null,
+        "digital": "2025-11-12",
+        "cinema": null,
+        "bluray": null,
+        "dvd": null
+      },
+      "similarMovies": [],
+      "sequelsAndPrequels": [],
+      "watchability": {
+        "items": [
+          {
+            "name": "SkyShowtime",
+            "logo": {
+              "url": "https://skyshowtime.com/logo.svg"
+            },
+            "url": "https://skyshowtime.com/series/mrs-playmen"
+          }
+        ]
+      },
+      "lists": [],
+      "top10": null,
+      "top250": null,
+      "updatedAt": "2025-11-13T21:00:00.000Z",
+      "createdAt": "2025-09-15T13:20:00.000Z"
+    },
+    {
+      "id": 219109,
+      "externalId": {
+        "imdb": "tt13622776",
+        "tmdb": null,
+        "kpHD": "1898273"
+      },
+      "name": "С любовью, Виктор",
+      "enName": "Love, Victor",
+      "alternativeName": "Love, Victor",
+      "names": [
+        {
+          "name": "С любовью, Виктор",
+          "language": "ru",
+          "type": "Русский"
+        },
+        {
+          "name": "Love, Victor",
+          "language": "en",
+          "type": "Оригинальный"
+        }
+      ],
+      "description": "Виктор — новый ученик в школе Крисп Лейк Хай. Он сталкивается с проблемами дома, адаптируется к новому городу и борется со своей сексуальной ориентацией.",
+      "shortDescription": "История самоопределения и поиска любви",
+      "slogan": "Каждый заслуживает свою любовь",
+      "type": "tv-series",
+      "typeNumber": 2,
+      "isSeries": true,
+      "status": "ended",
+      "year": 2020,
+      "releaseQuality": "WEB-DL",
+      "releaseYears": {
+        "start": 2020,
+        "end": 2022
+      },
+      "rating": {
+        "kp": 8.1,
+        "imdb": 8.0,
+        "tmdb": 8.3,
+        "filmCritics": 7.5,
+        "russianFilmCritics": 7.2,
+        "await": null
+      },
+      "ratingMpaa": "TV-14",
+      "ageRating": 16,
+      "votes": {
+        "kp": 15670,
+        "imdb": 34500,
+        "tmdb": 890,
+        "filmCritics": 67,
+        "russianFilmCritics": 12,
+        "await": null
+      },
+      "seasonsInfo": [
+        {
+          "number": 1,
+          "episodesCount": 10
+        },
+        {
+          "number": 2,
+          "episodesCount": 10
+        },
+        {
+          "number": 3,
+          "episodesCount": 8
+        }
+      ],
+      "budget": null,
+      "audience": null,
+      "movieLength": null,
+      "seriesLength": 30,
+      "totalSeriesLength": 840,
+      "genres": [
+        {
+          "name": "драма"
+        },
+        {
+          "name": "комедия"
+        },
+        {
+          "name": "мелодрама"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/love_victor_poster.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/love_victor_poster.jpg"
+      },
+      "backdrop": {
+        "url": "https://image.tmdb.org/t/p/original/6DKQKPQ42QF4FII7OATbs5hLNEd.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/6DKQKPQ42QF4FII7OATbs5hLNEd.jpg"
+      },
+      "logo": null,
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://www.youtube.com/watch?v=example_love_victor",
+            "name": "Трейлер 1 сезона",
+            "site": "youtube",
+            "type": "TRAILER",
+            "size": 1080
+          }
+        ]
+      },
+      "networks": {
+        "items": [
+          {
+            "name": "Hulu",
+            "logo": {
+              "url": "https://image.tmdb.org/t/p/original/hulu_logo.png"
+            }
+          },
+          {
+            "name": "Disney+",
+            "logo": {
+              "url": "https://image.tmdb.org/t/p/original/disney_logo.png"
+            }
+          }
+        ]
+      },
+      "persons": [
+        {
+          "id": 801,
+          "name": "Майкл Чимино",
+          "enName": "Michael Cimino",
+          "photo": "https://image.tmdb.org/t/p/original/person801.jpg",
+          "description": "Victor Salazar",
+          "profession": "актеры",
+          "enProfession": "actor"
+        },
+        {
+          "id": 802,
+          "name": "Джордж Синар",
+          "enName": "George Sear",
+          "photo": "https://image.tmdb.org/t/p/original/person802.jpg",
+          "description": "Benji Campbell",
+          "profession": "актеры",
+          "enProfession": "actor"
+        },
+        {
+          "id": 803,
+          "name": "Изабела Меронер",
+          "enName": "Isabella Ferreira",
+          "photo": "https://image.tmdb.org/t/p/original/person803.jpg",
+          "description": "Pilar Salazar",
+          "profession": "актеры",
+          "enProfession": "actor"
+        }
+      ],
+      "facts": [
+        {
+          "value": "Сериал является спин-оффом фильма 'С любовью, Саймон' 2018 года",
+          "type": "FACT",
+          "spoiler": false
+        },
+        {
+          "value": "Изначально сериал планировался для Disney+, но был перенесён на Hulu",
+          "type": "FACT",
+          "spoiler": false
+        }
+      ],
+      "fees": null,
+      "premiere": {
+        "country": "США",
+        "world": "2020-06-17",
+        "russia": "2020-06-17",
+        "digital": "2020-06-17",
+        "cinema": null,
+        "bluray": null,
+        "dvd": null
+      },
+      "similarMovies": [
+        {
+          "id": 447332,
+          "name": "С любовью, Саймон",
+          "enName": "Love, Simon",
+          "alternativeName": null,
+          "type": "movie",
+          "poster": {
+            "url": "https://image.tmdb.org/t/p/original/love_simon.jpg",
+            "previewUrl": "https://image.tmdb.org/t/p/w500/love_simon.jpg"
+          },
+          "rating": {
+            "kp": 8.1,
+            "imdb": 7.5,
+            "tmdb": 8.3,
+            "filmCritics": null,
+            "russianFilmCritics": null,
+            "await": null
+          },
+          "year": 2018
+        }
+      ],
+      "sequelsAndPrequels": [],
+      "watchability": {
+        "items": [
+          {
+            "name": "Disney+",
+            "logo": {
+              "url": "https://disneyplus.com/logo.svg"
+            },
+            "url": "https://disneyplus.com/series/love-victor"
+          }
+        ]
+      },
+      "lists": [
+        {
+          "category": "ЛГБТ+ сериалы",
+          "slug": "lgbt-series",
+          "rating": {
+            "kp": 8.1,
+            "imdb": 8.0,
+            "filmCritics": 7.5
+          }
+        }
+      ],
+      "top10": null,
+      "top250": null,
+      "updatedAt": "2025-11-13T22:15:00.000Z",
+      "createdAt": "2020-04-25T08:30:00.000Z"
+    }
+  ],
+  "total": 4523,
+  "limit": 10,
+  "page": 1,
+  "pages": 453
+}
