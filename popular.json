@@ -683,6 +683,846 @@
       "top250": null,
       "updatedAt": "2025-11-13T19:15:00.000Z",
       "createdAt": "2024-08-20T11:45:00.000Z"
+    },
+    {
+      "id": 950396,
+      "externalId": {
+        "imdb": "tt13654226",
+        "tmdb": null,
+        "kpHD": "5098653"
+      },
+      "name": "Ущелье",
+      "enName": "The Gorge",
+      "alternativeName": "The Gorge",
+      "names": [
+        {
+          "name": "Ущелье",
+          "language": "ru",
+          "type": "Русский"
+        },
+        {
+          "name": "The Gorge",
+          "language": "en",
+          "type": "Оригинальный"
+        }
+      ],
+      "description": "Два агента высшей квалификации сближаются, когда их назначают охранять противоположные стороны загадочного ущелья. Зло, таящееся на дне ущелья, вырывается наружу, и они должны объединиться, чтобы выжить.",
+      "shortDescription": "Зло пробудилось",
+      "slogan": "Охранять границу между мирами",
+      "type": "movie",
+      "typeNumber": 1,
+      "isSeries": false,
+      "status": "released",
+      "year": 2025,
+      "releaseQuality": "4K",
+      "releaseYears": null,
+      "rating": {
+        "kp": 7.0,
+        "imdb": 6.7,
+        "tmdb": 7.68,
+        "filmCritics": 6.9,
+        "russianFilmCritics": 6.5,
+        "await": null
+      },
+      "ratingMpaa": "R",
+      "ageRating": 16,
+      "votes": {
+        "kp": 12891,
+        "imdb": 3142,
+        "tmdb": 3142,
+        "filmCritics": 45,
+        "russianFilmCritics": 23,
+        "await": null
+      },
+      "seasonsInfo": null,
+      "budget": {
+        "value": 85000000,
+        "currency": "$"
+      },
+      "audience": [
+        {
+          "count": 32000000,
+          "country": "США"
+        }
+      ],
+      "movieLength": 123,
+      "seriesLength": null,
+      "totalSeriesLength": null,
+      "genres": [
+        {
+          "name": "мелодрама"
+        },
+        {
+          "name": "фантастика"
+        },
+        {
+          "name": "триллер"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/yiUINsMKnemBFcUHqpv94yJolWH.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/yiUINsMKnemBFcUHqpv94yJolWH.jpg"
+      },
+      "backdrop": {
+        "url": "https://image.tmdb.org/t/p/original/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg"
+      },
+      "logo": null,
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://www.youtube.com/watch?v=example_gorge",
+            "name": "Официальный трейлер",
+            "site": "youtube",
+            "type": "TRAILER",
+            "size": 1080
+          }
+        ]
+      },
+      "networks": null,
+      "persons": [],
+      "facts": [],
+      "fees": {
+        "world": {
+          "value": 245000000,
+          "currency": "$"
+        },
+        "russia": null,
+        "usa": {
+          "value": 89000000,
+          "currency": "$"
+        }
+      },
+      "premiere": {
+        "country": "США",
+        "world": "2025-02-13",
+        "russia": "2025-02-13",
+        "digital": null,
+        "cinema": "2025-02-13",
+        "bluray": null,
+        "dvd": null
+      },
+      "similarMovies": [],
+      "sequelsAndPrequels": [],
+      "watchability": {
+        "items": [
+          {
+            "name": "Кинопоиск HD",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/logo.svg"
+            },
+            "url": "https://hd.kinopoisk.ru/film/950396"
+          }
+        ]
+      },
+      "lists": [],
+      "top10": null,
+      "top250": null,
+      "updatedAt": "2025-11-14T06:00:00.000Z",
+      "createdAt": "2024-09-15T10:30:00.000Z"
+    },
+    {
+      "id": 1242419,
+      "externalId": {
+        "imdb": "tt4627382",
+        "tmdb": null,
+        "kpHD": "979438"
+      },
+      "name": "Грабитель с крыши",
+      "enName": "Roofman",
+      "alternativeName": "Roofman",
+      "names": [
+        {
+          "name": "Грабитель с крыши",
+          "language": "ru",
+          "type": "Русский"
+        },
+        {
+          "name": "Roofman",
+          "language": "en",
+          "type": "Оригинальный"
+        }
+      ],
+      "description": "Джеффри Манчестер, прозванный за свои дерзкие ограбления McDonald`s грабителем с крыши, обнаруживает неожиданное убежище в магазине игрушек. Здесь, казалось бы, он получает шанс перевести дух и залечь на дно. Но события начинают развиваться непредсказуемым образом, когда Джефф влюбляется в очаровательную девушку, работающую в этом магазине.",
+      "shortDescription": "История дерзкого грабителя и его убежища",
+      "slogan": "Иногда укрытие становится ловушкой",
+      "type": "movie",
+      "typeNumber": 1,
+      "isSeries": false,
+      "status": "released",
+      "year": 2025,
+      "releaseQuality": "4K",
+      "releaseYears": null,
+      "rating": {
+        "kp": 6.9,
+        "imdb": 7.2,
+        "tmdb": 7.321,
+        "filmCritics": 7.0,
+        "russianFilmCritics": 6.7,
+        "await": null
+      },
+      "ratingMpaa": "R",
+      "ageRating": 18,
+      "votes": {
+        "kp": 4560,
+        "imdb": 70,
+        "tmdb": 70,
+        "filmCritics": 23,
+        "russianFilmCritics": 12,
+        "await": null
+      },
+      "seasonsInfo": null,
+      "budget": {
+        "value": 25000000,
+        "currency": "$"
+      },
+      "audience": null,
+      "movieLength": 107,
+      "seriesLength": null,
+      "totalSeriesLength": null,
+      "genres": [
+        {
+          "name": "криминал"
+        },
+        {
+          "name": "драма"
+        },
+        {
+          "name": "комедия"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/tqbS2vmNCbTPX2CXFJxxMsomAlM.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/tqbS2vmNCbTPX2CXFJxxMsomAlM.jpg"
+      },
+      "backdrop": {
+        "url": "https://image.tmdb.org/t/p/original/2YOnE2qmoyyOUqQsFit12gDSauk.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/2YOnE2qmoyyOUqQsFit12gDSauk.jpg"
+      },
+      "logo": null,
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": []
+      },
+      "networks": null,
+      "persons": [],
+      "facts": [],
+      "fees": {
+        "world": {
+          "value": 45000000,
+          "currency": "$"
+        },
+        "russia": null,
+        "usa": {
+          "value": 18000000,
+          "currency": "$"
+        }
+      },
+      "premiere": {
+        "country": "США",
+        "world": "2025-10-08",
+        "russia": "2025-10-10",
+        "digital": null,
+        "cinema": "2025-10-08",
+        "bluray": null,
+        "dvd": null
+      },
+      "similarMovies": [],
+      "sequelsAndPrequels": [],
+      "watchability": {
+        "items": []
+      },
+      "lists": [],
+      "top10": null,
+      "top250": null,
+      "updatedAt": "2025-11-14T07:00:00.000Z",
+      "createdAt": "2025-07-22T09:15:00.000Z"
+    },
+    {
+      "id": 1114967,
+      "externalId": {
+        "imdb": "tt27543578",
+        "tmdb": null,
+        "kpHD": "5515508"
+      },
+      "name": "Везунчики",
+      "enName": "Good Fortune",
+      "alternativeName": "Good Fortune",
+      "names": [
+        {
+          "name": "Везунчики",
+          "language": "ru",
+          "type": "Русский"
+        },
+        {
+          "name": "Good Fortune",
+          "language": "en",
+          "type": "Оригинальный"
+        }
+      ],
+      "description": "Добродушный, но не слишком умелый ангел по имени Габриэль вмешивается в жизни работника-фрилансера и богатого венчурного капиталиста.",
+      "shortDescription": "Ангел меняет судьбы людей",
+      "slogan": "Удача — дело рук",
+      "type": "movie",
+      "typeNumber": 1,
+      "isSeries": false,
+      "status": "released",
+      "year": 2025,
+      "releaseQuality": "WEB-DL",
+      "releaseYears": null,
+      "rating": {
+        "kp": 6.5,
+        "imdb": 6.9,
+        "tmdb": 6.711,
+        "filmCritics": 6.4,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "ratingMpaa": "R",
+      "ageRating": 17,
+      "votes": {
+        "kp": 2340,
+        "imdb": 116,
+        "tmdb": 116,
+        "filmCritics": 34,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "seasonsInfo": null,
+      "budget": null,
+      "audience": null,
+      "movieLength": 98,
+      "seriesLength": null,
+      "totalSeriesLength": null,
+      "genres": [
+        {
+          "name": "комедия"
+        },
+        {
+          "name": "фэнтези"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/smgLN6330v7F1spPzAHd789yiZh.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/smgLN6330v7F1spPzAHd789yiZh.jpg"
+      },
+      "backdrop": {
+        "url": "https://image.tmdb.org/t/p/original/q2V1q2Xxwqg3uXQKufpdCtrnAdn.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/q2V1q2Xxwqg3uXQKufpdCtrnAdn.jpg"
+      },
+      "logo": null,
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": []
+      },
+      "networks": null,
+      "persons": [],
+      "facts": [],
+      "fees": null,
+      "premiere": {
+        "country": "США",
+        "world": "2025-10-14",
+        "russia": null,
+        "digital": "2025-10-14",
+        "cinema": null,
+        "bluray": null,
+        "dvd": null
+      },
+      "similarMovies": [],
+      "sequelsAndPrequels": [],
+      "watchability": {
+        "items": []
+      },
+      "lists": [],
+      "top10": null,
+      "top250": null,
+      "updatedAt": "2025-11-14T08:00:00.000Z",
+      "createdAt": "2025-08-01T11:45:00.000Z"
+    },
+    {
+      "id": 1242898,
+      "externalId": {
+        "imdb": "tt31227572",
+        "tmdb": null,
+        "kpHD": "5463792"
+      },
+      "name": "Хищник: Планета смерти",
+      "enName": "Predator: Badlands",
+      "alternativeName": "Predator: Badlands",
+      "names": [
+        {
+          "name": "Хищник: Планета смерти",
+          "language": "ru",
+          "type": "Русский"
+        },
+        {
+          "name": "Predator: Badlands",
+          "language": "en",
+          "type": "Оригинальный"
+        }
+      ],
+      "description": "Хищник Дек, изгнанный из клана, отправляется на опасную планету Калиск. Он стремится доказать своему отцу и всему племени, что достоин быть частью клана. Он встречает загадочную девушку Тию и объединяется с ней. Вместе они начинают поиски наиболее грозного противника.",
+      "shortDescription": "Новая глава в саге о Хищниках",
+      "slogan": "Охота начинается",
+      "type": "movie",
+      "typeNumber": 1,
+      "isSeries": false,
+      "status": "released",
+      "year": 2025,
+      "releaseQuality": "TC",
+      "releaseYears": null,
+      "rating": {
+        "kp": 7.4,
+        "imdb": 7.6,
+        "tmdb": 7.2,
+        "filmCritics": 7.3,
+        "russianFilmCritics": 7.0,
+        "await": null
+      },
+      "ratingMpaa": "R",
+      "ageRating": 16,
+      "votes": {
+        "kp": 8900,
+        "imdb": 217,
+        "tmdb": 217,
+        "filmCritics": 67,
+        "russianFilmCritics": 34,
+        "await": null
+      },
+      "seasonsInfo": null,
+      "budget": {
+        "value": 65000000,
+        "currency": "$"
+      },
+      "audience": null,
+      "movieLength": 115,
+      "seriesLength": null,
+      "totalSeriesLength": null,
+      "genres": [
+        {
+          "name": "боевик"
+        },
+        {
+          "name": "фантастика"
+        },
+        {
+          "name": "приключения"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/8ETB57bQka7fXMboZO4hRBqPb4D.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/8ETB57bQka7fXMboZO4hRBqPb4D.jpg"
+      },
+      "backdrop": {
+        "url": "https://image.tmdb.org/t/p/original/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg"
+      },
+      "logo": null,
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": []
+      },
+      "networks": null,
+      "persons": [],
+      "facts": [],
+      "fees": null,
+      "premiere": {
+        "country": "США",
+        "world": "2025-11-05",
+        "russia": "2025-11-07",
+        "digital": null,
+        "cinema": "2025-11-05",
+        "bluray": null,
+        "dvd": null
+      },
+      "similarMovies": [],
+      "sequelsAndPrequels": [],
+      "watchability": {
+        "items": []
+      },
+      "lists": [],
+      "top10": null,
+      "top250": null,
+      "updatedAt": "2025-11-14T09:00:00.000Z",
+      "createdAt": "2025-06-10T14:20:00.000Z"
+    },
+    {
+      "id": 693134,
+      "externalId": {
+        "imdb": "tt15239678",
+        "tmdb": null,
+        "kpHD": "4540134"
+      },
+      "name": "Дюна: Часть вторая",
+      "enName": "Dune: Part Two",
+      "alternativeName": "Dune: Part Two",
+      "names": [
+        {
+          "name": "Дюна: Часть вторая",
+          "language": "ru",
+          "type": "Русский"
+        },
+        {
+          "name": "Dune: Part Two",
+          "language": "en",
+          "type": "Оригинальный"
+        }
+      ],
+      "description": "Герцог Пол Атрейдес присоединяется к фременам, чтобы стать Муад Дибом, одновременно пытаясь остановить наступление войны.",
+      "shortDescription": "Эпическое продолжение космической саги",
+      "slogan": "Судьба - это путь, а не назначение",
+      "type": "movie",
+      "typeNumber": 1,
+      "isSeries": false,
+      "status": "released",
+      "year": 2024,
+      "releaseQuality": "4K",
+      "releaseYears": null,
+      "rating": {
+        "kp": 8.0,
+        "imdb": 8.5,
+        "tmdb": 8.2,
+        "filmCritics": 8.7,
+        "russianFilmCritics": 8.1,
+        "await": null
+      },
+      "ratingMpaa": "PG-13",
+      "ageRating": 12,
+      "votes": {
+        "kp": 456780,
+        "imdb": 234500,
+        "tmdb": 15690,
+        "filmCritics": 567,
+        "russianFilmCritics": 234,
+        "await": null
+      },
+      "seasonsInfo": null,
+      "budget": {
+        "value": 190000000,
+        "currency": "$"
+      },
+      "audience": [
+        {
+          "count": 93000000,
+          "country": "США"
+        }
+      ],
+      "movieLength": 166,
+      "seriesLength": null,
+      "totalSeriesLength": null,
+      "genres": [
+        {
+          "name": "фантастика"
+        },
+        {
+          "name": "приключения"
+        },
+        {
+          "name": "драма"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        },
+        {
+          "name": "Канада"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/dune2_poster.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/dune2_poster.jpg"
+      },
+      "backdrop": {
+        "url": "https://image.tmdb.org/t/p/original/o869RihWTdTyBcEZBjz0izvEsVf.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/o869RihWTdTyBcEZBjz0izvEsVf.jpg"
+      },
+      "logo": null,
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": []
+      },
+      "networks": null,
+      "persons": [],
+      "facts": [
+        {
+          "value": "Продолжение номинированного на Оскар фильма Дюна",
+          "type": "FACT",
+          "spoiler": false
+        }
+      ],
+      "fees": {
+        "world": {
+          "value": 714000000,
+          "currency": "$"
+        },
+        "russia": {
+          "value": 3200000000,
+          "currency": "₽"
+        },
+        "usa": {
+          "value": 282000000,
+          "currency": "$"
+        }
+      },
+      "premiere": {
+        "country": "США",
+        "world": "2024-02-28",
+        "russia": "2024-02-29",
+        "digital": "2024-05-14",
+        "cinema": "2024-02-28",
+        "bluray": "2024-05-28",
+        "dvd": null
+      },
+      "similarMovies": [],
+      "sequelsAndPrequels": [],
+      "watchability": {
+        "items": []
+      },
+      "lists": [],
+      "top10": null,
+      "top250": {
+        "position": 78,
+        "date": "2024-05-01"
+      },
+      "updatedAt": "2025-11-14T10:00:00.000Z",
+      "createdAt": "2023-11-15T08:30:00.000Z"
+    },
+    {
+      "id": 1197137,
+      "externalId": {
+        "imdb": "tt29644189",
+        "tmdb": null,
+        "kpHD": "5445185"
+      },
+      "name": "Чёрный телефон 2",
+      "enName": "Black Phone 2",
+      "alternativeName": "Black Phone 2",
+      "names": [
+        {
+          "name": "Чёрный телефон 2",
+          "language": "ru",
+          "type": "Русский"
+        },
+        {
+          "name": "Black Phone 2",
+          "language": "en",
+          "type": "Оригинальный"
+        }
+      ],
+      "description": "Спустя 4 года после своего спасения из плена жестокого маньяка 17-летний Финн до сих пор пытается вернуться к нормальной жизни. Однако теперь его сестру, 15-летнюю Гвен, мучают загадочные сны о вновь зазвонившем чёрном телефоне. Кроме того, девушку посещают тревожные видения о трёх мальчиках в зимнем лагере. Решив разгадать загадку и положить конец их общим страданиям, Гвен уговаривает брата отправиться в лагерь из её снов.",
+      "shortDescription": "Ужас возвращается",
+      "slogan": "Телефон снова звонит",
+      "type": "movie",
+      "typeNumber": 1,
+      "isSeries": false,
+      "status": "released",
+      "year": 2025,
+      "releaseQuality": "WEB-DL",
+      "releaseYears": null,
+      "rating": {
+        "kp": 6.1,
+        "imdb": 6.6,
+        "tmdb": 7.2,
+        "filmCritics": 6.3,
+        "russianFilmCritics": 5.9,
+        "await": null
+      },
+      "ratingMpaa": "R",
+      "ageRating": 18,
+      "votes": {
+        "kp": 7890,
+        "imdb": 386,
+        "tmdb": 386,
+        "filmCritics": 89,
+        "russianFilmCritics": 23,
+        "await": null
+      },
+      "seasonsInfo": null,
+      "budget": null,
+      "audience": null,
+      "movieLength": 102,
+      "seriesLength": null,
+      "totalSeriesLength": null,
+      "genres": [
+        {
+          "name": "ужасы"
+        },
+        {
+          "name": "триллер"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/pG3yo4PtkUku7qQTmEIM6OiV9zK.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/pG3yo4PtkUku7qQTmEIM6OiV9zK.jpg"
+      },
+      "backdrop": {
+        "url": "https://image.tmdb.org/t/p/original/oe2TOWykcLSGq67XPH4Bb0N1oU3.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/oe2TOWykcLSGq67XPH4Bb0N1oU3.jpg"
+      },
+      "logo": null,
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": []
+      },
+      "networks": null,
+      "persons": [],
+      "facts": [],
+      "fees": null,
+      "premiere": {
+        "country": "США",
+        "world": "2025-10-15",
+        "russia": "2025-10-17",
+        "digital": null,
+        "cinema": "2025-10-15",
+        "bluray": null,
+        "dvd": null
+      },
+      "similarMovies": [],
+      "sequelsAndPrequels": [],
+      "watchability": {
+        "items": []
+      },
+      "lists": [],
+      "top10": null,
+      "top250": null,
+      "updatedAt": "2025-11-14T11:00:00.000Z",
+      "createdAt": "2025-07-05T12:00:00.000Z"
+    },
+    {
+      "id": 1287322,
+      "externalId": {
+        "imdb": "tt32323252",
+        "tmdb": null,
+        "kpHD": "6408670"
+      },
+      "name": "Кристи",
+      "enName": "Christy",
+      "alternativeName": "Christy",
+      "names": [
+        {
+          "name": "Кристи",
+          "language": "ru",
+          "type": "Русский"
+        },
+        {
+          "name": "Christy",
+          "language": "en",
+          "type": "Оригинальный"
+        }
+      ],
+      "description": "История Кристи Мартин — самой успешной женщине-боксёре 90-ых годов, которая смело вышла на ринг мужского спорта и изменила представление о женском боксе.",
+      "shortDescription": "Реальная история легенды женского бокса",
+      "slogan": "Первая леди бокса",
+      "type": "movie",
+      "typeNumber": 1,
+      "isSeries": false,
+      "status": "released",
+      "year": 2025,
+      "releaseQuality": "TC",
+      "releaseYears": null,
+      "rating": {
+        "kp": 8.0,
+        "imdb": 6.2,
+        "tmdb": 8.0,
+        "filmCritics": 7.8,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "ratingMpaa": "R",
+      "ageRating": 17,
+      "votes": {
+        "kp": 1200,
+        "imdb": 4,
+        "tmdb": 4,
+        "filmCritics": 12,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "seasonsInfo": null,
+      "budget": null,
+      "audience": null,
+      "movieLength": 118,
+      "seriesLength": null,
+      "totalSeriesLength": null,
+      "genres": [
+        {
+          "name": "драма"
+        },
+        {
+          "name": "биография"
+        },
+        {
+          "name": "спорт"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/zXUk4D1NQN4SyepH6mBg6kev4Js.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/zXUk4D1NQN4SyepH6mBg6kev4Js.jpg"
+      },
+      "backdrop": {
+        "url": "https://image.tmdb.org/t/p/original/3dgklKoEwdeehcXNMIyw9ukdZQ5.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/3dgklKoEwdeehcXNMIyw9ukdZQ5.jpg"
+      },
+      "logo": null,
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": []
+      },
+      "networks": null,
+      "persons": [],
+      "facts": [],
+      "fees": null,
+      "premiere": {
+        "country": "США",
+        "world": "2025-11-06",
+        "russia": null,
+        "digital": null,
+        "cinema": "2025-11-06",
+        "bluray": null,
+        "dvd": null
+      },
+      "similarMovies": [],
+      "sequelsAndPrequels": [],
+      "watchability": {
+        "items": []
+      },
+      "lists": [],
+      "top10": null,
+      "top250": null,
+      "updatedAt": "2025-11-14T12:00:00.000Z",
+      "createdAt": "2025-08-20T10:45:00.000Z"
     }
   ],
   "total": 12547,
