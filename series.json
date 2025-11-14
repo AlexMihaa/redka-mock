@@ -659,6 +659,877 @@
       "top250": null,
       "updatedAt": "2025-11-13T22:15:00.000Z",
       "createdAt": "2020-04-25T08:30:00.000Z"
+    },
+    {
+      "id": 153312,
+      "externalId": {
+        "imdb": "tt16358384",
+        "tmdb": null,
+        "kpHD": "4760854"
+      },
+      "name": "Король Талсы",
+      "enName": "Tulsa King",
+      "alternativeName": "Tulsa King",
+      "names": [
+        {
+          "name": "Король Талсы",
+          "language": "ru",
+          "type": "Русский"
+        },
+        {
+          "name": "Tulsa King",
+          "language": "en",
+          "type": "Оригинальный"
+        }
+      ],
+      "description": "Мафиози Дуайт «Генерал» Манфреди вышел на свободу после 25-летней отсидки и оказался в совсем другом мире. В родном Нью-Йорке Генералу уже не рады и отправляют гангстера в Талсу, штат Оклахома. Но надеявшиеся там его похоронить просчитались — Манфреди постепенно собирает вокруг себя новую команду, которая поможет ему сколотить новую криминальную империю с нуля.",
+      "shortDescription": "Мафиози строит империю в Оклахоме",
+      "slogan": "Начни сначала. Сделай это по-своему.",
+      "type": "tv-series",
+      "typeNumber": 2,
+      "isSeries": true,
+      "status": "returning series",
+      "year": 2022,
+      "releaseQuality": "4K",
+      "releaseYears": {
+        "start": 2022,
+        "end": null
+      },
+      "rating": {
+        "kp": 7.6,
+        "imdb": 7.9,
+        "tmdb": 8.313,
+        "filmCritics": 7.8,
+        "russianFilmCritics": 7.3,
+        "await": null
+      },
+      "ratingMpaa": "TV-MA",
+      "ageRating": 18,
+      "votes": {
+        "kp": 56780,
+        "imdb": 2371,
+        "tmdb": 2371,
+        "filmCritics": 123,
+        "russianFilmCritics": 45,
+        "await": null
+      },
+      "seasonsInfo": [
+        {
+          "number": 1,
+          "episodesCount": 9
+        },
+        {
+          "number": 2,
+          "episodesCount": 10
+        },
+        {
+          "number": 3,
+          "episodesCount": 8
+        }
+      ],
+      "budget": null,
+      "audience": null,
+      "movieLength": null,
+      "seriesLength": 45,
+      "totalSeriesLength": 1215,
+      "genres": [
+        {
+          "name": "криминал"
+        },
+        {
+          "name": "драма"
+        },
+        {
+          "name": "комедия"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/8lZrK8t4IVaugD2ho7JbtaPhazs.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/8lZrK8t4IVaugD2ho7JbtaPhazs.jpg"
+      },
+      "backdrop": {
+        "url": "https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg"
+      },
+      "logo": null,
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": []
+      },
+      "networks": {
+        "items": [
+          {
+            "name": "Paramount+",
+            "logo": {
+              "url": "https://image.tmdb.org/t/p/original/paramount_logo.png"
+            }
+          }
+        ]
+      },
+      "persons": [],
+      "facts": [],
+      "fees": null,
+      "premiere": {
+        "country": "США",
+        "world": "2022-11-13",
+        "russia": "2022-11-13",
+        "digital": "2022-11-13",
+        "cinema": null,
+        "bluray": null,
+        "dvd": null
+      },
+      "similarMovies": [],
+      "sequelsAndPrequels": [],
+      "watchability": {
+        "items": [
+          {
+            "name": "Paramount+",
+            "logo": {
+              "url": "https://paramountplus.com/logo.svg"
+            },
+            "url": "https://paramountplus.com/shows/tulsa-king"
+          }
+        ]
+      },
+      "lists": [],
+      "top10": null,
+      "top250": null,
+      "updatedAt": "2025-11-14T13:00:00.000Z",
+      "createdAt": "2022-09-01T10:00:00.000Z"
+    },
+    {
+      "id": 1399,
+      "externalId": {
+        "imdb": "tt0944947",
+        "tmdb": null,
+        "kpHD": "464963"
+      },
+      "name": "Игра престолов",
+      "enName": "Game of Thrones",
+      "alternativeName": "Game of Thrones",
+      "names": [
+        {
+          "name": "Игра престолов",
+          "language": "ru",
+          "type": "Русский"
+        },
+        {
+          "name": "Game of Thrones",
+          "language": "en",
+          "type": "Оригинальный"
+        }
+      ],
+      "description": "К концу подходит время благоденствия, и лето, длившееся почти десятилетие, угасает. Вокруг средоточия власти Семи Королевств, Железного трона, зреет заговор, и в это непростое время король решает искать поддержки у друга юности Эддарда Старка. В мире, где все — от короля до наёмника — рвутся к власти, плетут интриги и готовы вонзить нож в спину, есть место и благородству, состраданию и любви. Между тем, никто не замечает пробуждение тьмы из легенд далеко на Севере — и лишь Стена защищает живых к югу от неё.",
+      "shortDescription": "Эпическая сага о борьбе за власть",
+      "slogan": "Зима близко",
+      "type": "tv-series",
+      "typeNumber": 2,
+      "isSeries": true,
+      "status": "ended",
+      "year": 2011,
+      "releaseQuality": "4K",
+      "releaseYears": {
+        "start": 2011,
+        "end": 2019
+      },
+      "rating": {
+        "kp": 9.0,
+        "imdb": 9.2,
+        "tmdb": 8.459,
+        "filmCritics": 9.1,
+        "russianFilmCritics": 8.7,
+        "await": null
+      },
+      "ratingMpaa": "TV-MA",
+      "ageRating": 18,
+      "votes": {
+        "kp": 1234567,
+        "imdb": 25754,
+        "tmdb": 25754,
+        "filmCritics": 890,
+        "russianFilmCritics": 234,
+        "await": null
+      },
+      "seasonsInfo": [
+        {
+          "number": 1,
+          "episodesCount": 10
+        },
+        {
+          "number": 2,
+          "episodesCount": 10
+        },
+        {
+          "number": 3,
+          "episodesCount": 10
+        },
+        {
+          "number": 4,
+          "episodesCount": 10
+        },
+        {
+          "number": 5,
+          "episodesCount": 10
+        },
+        {
+          "number": 6,
+          "episodesCount": 10
+        },
+        {
+          "number": 7,
+          "episodesCount": 7
+        },
+        {
+          "number": 8,
+          "episodesCount": 6
+        }
+      ],
+      "budget": null,
+      "audience": null,
+      "movieLength": null,
+      "seriesLength": 60,
+      "totalSeriesLength": 4380,
+      "genres": [
+        {
+          "name": "фэнтези"
+        },
+        {
+          "name": "драма"
+        },
+        {
+          "name": "боевик"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        },
+        {
+          "name": "Великобритания"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/tbBQW8jpDH7RpAymMGnBluIsdmH.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/tbBQW8jpDH7RpAymMGnBluIsdmH.jpg"
+      },
+      "backdrop": {
+        "url": "https://image.tmdb.org/t/p/original/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg"
+      },
+      "logo": {
+        "url": "https://image.tmdb.org/t/p/original/got_logo.png"
+      },
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": []
+      },
+      "networks": {
+        "items": [
+          {
+            "name": "HBO",
+            "logo": {
+              "url": "https://image.tmdb.org/t/p/original/hbo_logo.png"
+            }
+          }
+        ]
+      },
+      "persons": [],
+      "facts": [
+        {
+          "value": "Один из самых популярных сериалов в истории телевидения",
+          "type": "FACT",
+          "spoiler": false
+        }
+      ],
+      "fees": null,
+      "premiere": {
+        "country": "США",
+        "world": "2011-04-17",
+        "russia": "2011-04-18",
+        "digital": "2011-04-17",
+        "cinema": null,
+        "bluray": null,
+        "dvd": null
+      },
+      "similarMovies": [],
+      "sequelsAndPrequels": [],
+      "watchability": {
+        "items": [
+          {
+            "name": "Кинопоиск HD",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/logo.svg"
+            },
+            "url": "https://hd.kinopoisk.ru/series/1399"
+          }
+        ]
+      },
+      "lists": [],
+      "top10": null,
+      "top250": {
+        "position": 12,
+        "date": "2019-06-01"
+      },
+      "updatedAt": "2025-11-14T14:00:00.000Z",
+      "createdAt": "2011-01-15T08:00:00.000Z"
+    },
+    {
+      "id": 225171,
+      "externalId": {
+        "imdb": "tt22202452",
+        "tmdb": null,
+        "kpHD": "6012599"
+      },
+      "name": "Одна из многих",
+      "enName": "Pluribus",
+      "alternativeName": "Pluribus",
+      "names": [
+        {
+          "name": "Одна из многих",
+          "language": "ru",
+          "type": "Русский"
+        },
+        {
+          "name": "Pluribus",
+          "language": "en",
+          "type": "Оригинальный"
+        }
+      ],
+      "description": "Самый несчастный человек на Земле должен спасти мир от счастья.",
+      "shortDescription": "Антиутопия о мире всеобщего счастья",
+      "slogan": "Когда все счастливы, кто-то должен быть несчастным",
+      "type": "tv-series",
+      "typeNumber": 2,
+      "isSeries": true,
+      "status": "returning series",
+      "year": 2025,
+      "releaseQuality": "WEB-DL",
+      "releaseYears": {
+        "start": 2025,
+        "end": null
+      },
+      "rating": {
+        "kp": 8.4,
+        "imdb": 9.0,
+        "tmdb": 8.8,
+        "filmCritics": 8.6,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "ratingMpaa": "TV-14",
+      "ageRating": 16,
+      "votes": {
+        "kp": 5600,
+        "imdb": 60,
+        "tmdb": 60,
+        "filmCritics": 34,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "seasonsInfo": [
+        {
+          "number": 1,
+          "episodesCount": 2
+        }
+      ],
+      "budget": null,
+      "audience": null,
+      "movieLength": null,
+      "seriesLength": 50,
+      "totalSeriesLength": 100,
+      "genres": [
+        {
+          "name": "драма"
+        },
+        {
+          "name": "фантастика"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/ogBuIahJawmheKqrc7F7gRXmpU0.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/ogBuIahJawmheKqrc7F7gRXmpU0.jpg"
+      },
+      "backdrop": {
+        "url": "https://image.tmdb.org/t/p/original/ieZJod5N5HgOT2JdJBnpJ0zyByT.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/ieZJod5N5HgOT2JdJBnpJ0zyByT.jpg"
+      },
+      "logo": null,
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": []
+      },
+      "networks": {
+        "items": []
+      },
+      "persons": [],
+      "facts": [],
+      "fees": null,
+      "premiere": {
+        "country": "США",
+        "world": "2025-11-06",
+        "russia": null,
+        "digital": "2025-11-06",
+        "cinema": null,
+        "bluray": null,
+        "dvd": null
+      },
+      "similarMovies": [],
+      "sequelsAndPrequels": [],
+      "watchability": {
+        "items": []
+      },
+      "lists": [],
+      "top10": null,
+      "top250": null,
+      "updatedAt": "2025-11-14T15:00:00.000Z",
+      "createdAt": "2025-10-01T09:00:00.000Z"
+    },
+    {
+      "id": 305394,
+      "externalId": {
+        "imdb": "tt1746829",
+        "tmdb": null,
+        "kpHD": "676975"
+      },
+      "name": "Космические ковбои",
+      "enName": "Cosmic Cowboys",
+      "alternativeName": "Cosmic Cowboys",
+      "names": [
+        {
+          "name": "Космические ковбои",
+          "language": "ru",
+          "type": "Русский"
+        },
+        {
+          "name": "Cosmic Cowboys",
+          "language": "en",
+          "type": "Оригинальный"
+        }
+      ],
+      "description": "Приключения команды космических ковбоев, путешествующих по галактике в поисках приключений и сокровищ.",
+      "shortDescription": "Анимационные приключения в космосе",
+      "slogan": "Космос - это новый Дикий Запад",
+      "type": "tv-series",
+      "typeNumber": 2,
+      "isSeries": true,
+      "status": "ended",
+      "year": 2003,
+      "releaseQuality": "DVD-Rip",
+      "releaseYears": {
+        "start": 2003,
+        "end": 2021
+      },
+      "rating": {
+        "kp": 7.4,
+        "imdb": 7.0,
+        "tmdb": 10.0,
+        "filmCritics": null,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "ratingMpaa": "TV-Y7",
+      "ageRating": 6,
+      "votes": {
+        "kp": 560,
+        "imdb": 1,
+        "tmdb": 1,
+        "filmCritics": null,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "seasonsInfo": [
+        {
+          "number": 1,
+          "episodesCount": 51
+        }
+      ],
+      "budget": null,
+      "audience": null,
+      "movieLength": null,
+      "seriesLength": 22,
+      "totalSeriesLength": 1122,
+      "genres": [
+        {
+          "name": "мультфильм"
+        },
+        {
+          "name": "детский"
+        },
+        {
+          "name": "семейный"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Франция"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/pdi2TaUmJQSfU4HwTexjH81cvhs.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/pdi2TaUmJQSfU4HwTexjH81cvhs.jpg"
+      },
+      "backdrop": null,
+      "logo": null,
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": []
+      },
+      "networks": {
+        "items": []
+      },
+      "persons": [],
+      "facts": [],
+      "fees": null,
+      "premiere": {
+        "country": "Франция",
+        "world": "2003-01-01",
+        "russia": null,
+        "digital": null,
+        "cinema": null,
+        "bluray": null,
+        "dvd": null
+      },
+      "similarMovies": [],
+      "sequelsAndPrequels": [],
+      "watchability": {
+        "items": []
+      },
+      "lists": [],
+      "top10": null,
+      "top250": null,
+      "updatedAt": "2025-11-14T16:00:00.000Z",
+      "createdAt": "2003-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 1268154,
+      "externalId": {
+        "imdb": "tt28316002",
+        "tmdb": null,
+        "kpHD": null
+      },
+      "name": "Одна ночь",
+      "enName": "Jedna noc",
+      "alternativeName": "Jedna noc",
+      "names": [
+        {
+          "name": "Одна ночь",
+          "language": "ru",
+          "type": "Русский"
+        },
+        {
+          "name": "Jedna noc",
+          "language": "cs",
+          "type": "Оригинальный"
+        }
+      ],
+      "description": "Драматическая история одной ночи, изменившей жизни героев навсегда.",
+      "shortDescription": "Одна ночь, множество судеб",
+      "slogan": "Иногда одна ночь решает всё",
+      "type": "movie",
+      "typeNumber": 1,
+      "isSeries": false,
+      "status": "released",
+      "year": 2024,
+      "releaseQuality": "WEB-DL",
+      "releaseYears": null,
+      "rating": {
+        "kp": 6.5,
+        "imdb": null,
+        "tmdb": 0.0,
+        "filmCritics": null,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "ratingMpaa": null,
+      "ageRating": 16,
+      "votes": {
+        "kp": 120,
+        "imdb": null,
+        "tmdb": 0,
+        "filmCritics": null,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "seasonsInfo": null,
+      "budget": null,
+      "audience": null,
+      "movieLength": 95,
+      "seriesLength": null,
+      "totalSeriesLength": null,
+      "genres": [
+        {
+          "name": "драма"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Чехия"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/ibjzzCkBCs3OiRA5kmtsjwPoPWn.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/ibjzzCkBCs3OiRA5kmtsjwPoPWn.jpg"
+      },
+      "backdrop": {
+        "url": "https://image.tmdb.org/t/p/original/6DKQKPQ42QF4FII7OATbs5hLNEd.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/6DKQKPQ42QF4FII7OATbs5hLNEd.jpg"
+      },
+      "logo": null,
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": []
+      },
+      "networks": null,
+      "persons": [],
+      "facts": [],
+      "fees": null,
+      "premiere": {
+        "country": "Чехия",
+        "world": "2024-05-09",
+        "russia": null,
+        "digital": null,
+        "cinema": "2024-05-09",
+        "bluray": null,
+        "dvd": null
+      },
+      "similarMovies": [],
+      "sequelsAndPrequels": [],
+      "watchability": {
+        "items": []
+      },
+      "lists": [],
+      "top10": null,
+      "top250": null,
+      "updatedAt": "2025-11-14T17:00:00.000Z",
+      "createdAt": "2024-03-15T11:30:00.000Z"
+    },
+    {
+      "id": 996976,
+      "externalId": {
+        "imdb": "tt16085768",
+        "tmdb": null,
+        "kpHD": "4747757"
+      },
+      "name": "Я проклинаю эту землю",
+      "enName": "I Curse This Land",
+      "alternativeName": "I Curse This Land",
+      "names": [
+        {
+          "name": "Я проклинаю эту землю",
+          "language": "ru",
+          "type": "Русский"
+        },
+        {
+          "name": "I Curse This Land",
+          "language": "en",
+          "type": "Оригинальный"
+        }
+      ],
+      "description": "Элисон думает, что её мечта сбылась, когда она наконец находит своё пристанище — маленький паб в тихом приморском городке. Только девушка не подозревает, что её новый дом имеет мрачную историю и, по слухам, проклят.",
+      "shortDescription": "Ужасы в маленьком пабе",
+      "slogan": "Некоторые места хранят тёмные тайны",
+      "type": "movie",
+      "typeNumber": 1,
+      "isSeries": false,
+      "status": "released",
+      "year": 2024,
+      "releaseQuality": "WEB-DL",
+      "releaseYears": null,
+      "rating": {
+        "kp": 5.8,
+        "imdb": 5.0,
+        "tmdb": 0.0,
+        "filmCritics": null,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "ratingMpaa": null,
+      "ageRating": 16,
+      "votes": {
+        "kp": 340,
+        "imdb": 0,
+        "tmdb": 0,
+        "filmCritics": null,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "seasonsInfo": null,
+      "budget": null,
+      "audience": null,
+      "movieLength": 88,
+      "seriesLength": null,
+      "totalSeriesLength": null,
+      "genres": [
+        {
+          "name": "ужасы"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/3IVsbEnWDR8aD503ySXZV6zNRfU.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/3IVsbEnWDR8aD503ySXZV6zNRfU.jpg"
+      },
+      "backdrop": {
+        "url": "https://image.tmdb.org/t/p/original/i9xnNmrTeosiKtMTuKZSGg7T5zH.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/i9xnNmrTeosiKtMTuKZSGg7T5zH.jpg"
+      },
+      "logo": null,
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": []
+      },
+      "networks": null,
+      "persons": [],
+      "facts": [],
+      "fees": null,
+      "premiere": {
+        "country": "США",
+        "world": "2024-01-20",
+        "russia": null,
+        "digital": "2024-01-20",
+        "cinema": null,
+        "bluray": null,
+        "dvd": null
+      },
+      "similarMovies": [],
+      "sequelsAndPrequels": [],
+      "watchability": {
+        "items": []
+      },
+      "lists": [],
+      "top10": null,
+      "top250": null,
+      "updatedAt": "2025-11-14T18:00:00.000Z",
+      "createdAt": "2023-11-10T13:45:00.000Z"
+    },
+    {
+      "id": 109881,
+      "externalId": {
+        "imdb": "tt0037885",
+        "tmdb": null,
+        "kpHD": "92706"
+      },
+      "name": "Любовные письма",
+      "enName": "Love Letters",
+      "alternativeName": "Love Letters",
+      "names": [
+        {
+          "name": "Любовные письма",
+          "language": "ru",
+          "type": "Русский"
+        },
+        {
+          "name": "Love Letters",
+          "language": "en",
+          "type": "Оригинальный"
+        }
+      ],
+      "description": "Во время военных действий в Италии Аллен Куинтон от имени своего малограмотного сослуживца Роджера пишет любовные письма его невесте Виктории. После возвращения с войны Аллен узнал, что Роджер и Виктория поженились, но их совместная жизнь продлилась недолго из-за внезапной смерти Роджера. Когда Аллен приезжает к своей тёте в Эссексе, он решает навестить Викторию, которая живёт по соседству. Но ему сообщают, что молодая вдова, которую подозревали в убийстве мужа, умерла. Вернувшись домой в Лондон он знакомится с таинственной Синглтон – молодой женщиной, страдающей амнезией...",
+      "shortDescription": "Классическая романтическая драма 1945 года",
+      "slogan": "Письма, написанные для другого",
+      "type": "movie",
+      "typeNumber": 1,
+      "isSeries": false,
+      "status": "released",
+      "year": 1945,
+      "releaseQuality": "Blu-Ray",
+      "releaseYears": null,
+      "rating": {
+        "kp": 7.2,
+        "imdb": 6.5,
+        "tmdb": 6.5,
+        "filmCritics": null,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "ratingMpaa": null,
+      "ageRating": 12,
+      "votes": {
+        "kp": 890,
+        "imdb": 23,
+        "tmdb": 23,
+        "filmCritics": null,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "seasonsInfo": null,
+      "budget": null,
+      "audience": null,
+      "movieLength": 101,
+      "seriesLength": null,
+      "totalSeriesLength": null,
+      "genres": [
+        {
+          "name": "драма"
+        },
+        {
+          "name": "детектив"
+        },
+        {
+          "name": "мелодрама"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/jr4PYYbjRw16AL6pQEpKoVcTXOv.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/jr4PYYbjRw16AL6pQEpKoVcTXOv.jpg"
+      },
+      "backdrop": {
+        "url": "https://image.tmdb.org/t/p/original/5gokFMBXAKtShro6RnyJQkRx8oB.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/5gokFMBXAKtShro6RnyJQkRx8oB.jpg"
+      },
+      "logo": null,
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": []
+      },
+      "networks": null,
+      "persons": [],
+      "facts": [
+        {
+          "value": "Классический фильм эпохи Золотого Голливуда",
+          "type": "FACT",
+          "spoiler": false
+        }
+      ],
+      "fees": null,
+      "premiere": {
+        "country": "США",
+        "world": "1945-10-26",
+        "russia": null,
+        "digital": null,
+        "cinema": "1945-10-26",
+        "bluray": null,
+        "dvd": null
+      },
+      "similarMovies": [],
+      "sequelsAndPrequels": [],
+      "watchability": {
+        "items": []
+      },
+      "lists": [],
+      "top10": null,
+      "top250": null,
+      "updatedAt": "2025-11-14T19:00:00.000Z",
+      "createdAt": "1945-01-01T00:00:00.000Z"
     }
   ],
   "total": 4523,
