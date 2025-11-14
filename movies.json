@@ -641,6 +641,645 @@
       "top250": null,
       "updatedAt": "2025-11-13T14:20:00.000Z",
       "createdAt": "2024-05-10T09:00:00.000Z"
+    },
+    {
+      "id": 1401318,
+      "externalId": {
+        "imdb": "tt34992378",
+        "tmdb": null,
+        "kpHD": "7581655"
+      },
+      "name": "Рождество с бывшим",
+      "enName": "A Merry Little Ex-Mas",
+      "alternativeName": "A Merry Little Ex-Mas",
+      "names": [
+        {
+          "name": "Рождество с бывшим",
+          "language": "ru"
+        },
+        {
+          "name": "A Merry Little Ex-Mas",
+          "language": "en"
+        }
+      ],
+      "description": "Кейт и Эверетт собираются в последний раз отпраздновать Рождество как одна семья и цивилизованно развестись. Однако всё усложняется из-за новых симпатий и старых чувств.",
+      "shortDescription": "Последнее Рождество перед разводом",
+      "slogan": "Любовь возвращается на праздники",
+      "type": "movie",
+      "typeNumber": 1,
+      "isSeries": false,
+      "status": "released",
+      "year": 2025,
+      "releaseQuality": "WEB-DL",
+      "releaseYears": null,
+      "rating": {
+        "kp": 7.3,
+        "imdb": 7.3,
+        "tmdb": 7.3,
+        "filmCritics": null,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "ratingMpaa": "PG",
+      "ageRating": 6,
+      "votes": {
+        "kp": 890,
+        "imdb": 15,
+        "tmdb": 15,
+        "filmCritics": null,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "seasonsInfo": null,
+      "budget": {
+        "value": 12000000,
+        "currency": "$"
+      },
+      "audience": null,
+      "movieLength": 91,
+      "seriesLength": null,
+      "totalSeriesLength": null,
+      "genres": [
+        {
+          "name": "мелодрама"
+        },
+        {
+          "name": "комедия"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/w4ytu75uJ1b0AgPd0wLm7iZMsWJ.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/w4ytu75uJ1b0AgPd0wLm7iZMsWJ.jpg"
+      },
+      "backdrop": {
+        "url": "https://image.tmdb.org/t/p/original/2GHJGnF2jgnzeqT3XTHjHXgk5Fx.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/2GHJGnF2jgnzeqT3XTHjHXgk5Fx.jpg"
+      },
+      "logo": null,
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://www.youtube.com/watch?v=example4",
+            "name": "Официальный трейлер",
+            "site": "youtube",
+            "type": "TRAILER",
+            "size": 1080
+          }
+        ]
+      },
+      "networks": null,
+      "persons": [],
+      "facts": [],
+      "fees": null,
+      "premiere": {
+        "country": "США",
+        "world": "2025-11-12",
+        "russia": "2025-11-14",
+        "digital": "2025-11-12",
+        "cinema": null,
+        "bluray": null,
+        "dvd": null
+      },
+      "similarMovies": [],
+      "sequelsAndPrequels": [],
+      "watchability": {
+        "items": [
+          {
+            "name": "Кинопоиск HD",
+            "logo": {
+              "url": "https://avatars.mds.yandex.net/logo.svg"
+            },
+            "url": "https://hd.kinopoisk.ru/film/1401318"
+          }
+        ]
+      },
+      "lists": [],
+      "top10": null,
+      "top250": null,
+      "updatedAt": "2025-11-13T23:00:00.000Z",
+      "createdAt": "2025-08-10T11:00:00.000Z"
+    },
+    {
+      "id": 980489,
+      "externalId": {
+        "imdb": "tt980489",
+        "tmdb": null,
+        "kpHD": "980489"
+      },
+      "name": "Фильм 980489",
+      "enName": "Movie 980489",
+      "alternativeName": "Movie 980489",
+      "names": [
+        {
+          "name": "Фильм 980489",
+          "language": "ru"
+        }
+      ],
+      "description": "Описание фильма",
+      "shortDescription": "Краткое описание",
+      "slogan": "Слоган",
+      "type": "movie",
+      "typeNumber": 1,
+      "isSeries": false,
+      "status": "released",
+      "year": 2024,
+      "releaseQuality": "4K",
+      "releaseYears": null,
+      "rating": {
+        "kp": 7.0,
+        "imdb": 7.0,
+        "tmdb": 7.0,
+        "filmCritics": null,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "ratingMpaa": "PG-13",
+      "ageRating": 12,
+      "votes": {
+        "kp": 1000,
+        "imdb": 100,
+        "tmdb": 100,
+        "filmCritics": null,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "seasonsInfo": null,
+      "budget": null,
+      "audience": null,
+      "movieLength": 120,
+      "seriesLength": null,
+      "totalSeriesLength": null,
+      "genres": [
+        {
+          "name": "драма"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/poster980489.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/poster980489.jpg"
+      },
+      "backdrop": null,
+      "logo": null,
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": []
+      },
+      "networks": null,
+      "persons": [],
+      "facts": [],
+      "fees": null,
+      "premiere": null,
+      "similarMovies": [],
+      "sequelsAndPrequels": [],
+      "watchability": {
+        "items": []
+      },
+      "lists": [],
+      "top10": null,
+      "top250": null,
+      "updatedAt": "2025-11-14T00:00:00.000Z",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 533535,
+      "externalId": {
+        "imdb": "tt533535",
+        "tmdb": null,
+        "kpHD": "533535"
+      },
+      "name": "Фильм 533535",
+      "enName": "Movie 533535",
+      "alternativeName": "Movie 533535",
+      "names": [
+        {
+          "name": "Фильм 533535",
+          "language": "ru"
+        }
+      ],
+      "description": "Описание фильма",
+      "shortDescription": "Краткое описание",
+      "slogan": "Слоган",
+      "type": "movie",
+      "typeNumber": 1,
+      "isSeries": false,
+      "status": "released",
+      "year": 2024,
+      "releaseQuality": "4K",
+      "releaseYears": null,
+      "rating": {
+        "kp": 7.0,
+        "imdb": 7.0,
+        "tmdb": 7.0,
+        "filmCritics": null,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "ratingMpaa": "PG-13",
+      "ageRating": 12,
+      "votes": {
+        "kp": 1000,
+        "imdb": 100,
+        "tmdb": 100,
+        "filmCritics": null,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "seasonsInfo": null,
+      "budget": null,
+      "audience": null,
+      "movieLength": 120,
+      "seriesLength": null,
+      "totalSeriesLength": null,
+      "genres": [
+        {
+          "name": "драма"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/poster533535.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/poster533535.jpg"
+      },
+      "backdrop": null,
+      "logo": null,
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": []
+      },
+      "networks": null,
+      "persons": [],
+      "facts": [],
+      "fees": null,
+      "premiere": null,
+      "similarMovies": [],
+      "sequelsAndPrequels": [],
+      "watchability": {
+        "items": []
+      },
+      "lists": [],
+      "top10": null,
+      "top250": null,
+      "updatedAt": "2025-11-14T00:00:00.000Z",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 912649,
+      "externalId": {
+        "imdb": "tt912649",
+        "tmdb": null,
+        "kpHD": "912649"
+      },
+      "name": "Фильм 912649",
+      "enName": "Movie 912649",
+      "alternativeName": "Movie 912649",
+      "names": [
+        {
+          "name": "Фильм 912649",
+          "language": "ru"
+        }
+      ],
+      "description": "Описание фильма",
+      "shortDescription": "Краткое описание",
+      "slogan": "Слоган",
+      "type": "movie",
+      "typeNumber": 1,
+      "isSeries": false,
+      "status": "released",
+      "year": 2024,
+      "releaseQuality": "4K",
+      "releaseYears": null,
+      "rating": {
+        "kp": 7.0,
+        "imdb": 7.0,
+        "tmdb": 7.0,
+        "filmCritics": null,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "ratingMpaa": "PG-13",
+      "ageRating": 12,
+      "votes": {
+        "kp": 1000,
+        "imdb": 100,
+        "tmdb": 100,
+        "filmCritics": null,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "seasonsInfo": null,
+      "budget": null,
+      "audience": null,
+      "movieLength": 120,
+      "seriesLength": null,
+      "totalSeriesLength": null,
+      "genres": [
+        {
+          "name": "драма"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/poster912649.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/poster912649.jpg"
+      },
+      "backdrop": null,
+      "logo": null,
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": []
+      },
+      "networks": null,
+      "persons": [],
+      "facts": [],
+      "fees": null,
+      "premiere": null,
+      "similarMovies": [],
+      "sequelsAndPrequels": [],
+      "watchability": {
+        "items": []
+      },
+      "lists": [],
+      "top10": null,
+      "top250": null,
+      "updatedAt": "2025-11-14T00:00:00.000Z",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 1084736,
+      "externalId": {
+        "imdb": "tt1084736",
+        "tmdb": null,
+        "kpHD": "1084736"
+      },
+      "name": "Фильм 1084736",
+      "enName": "Movie 1084736",
+      "alternativeName": "Movie 1084736",
+      "names": [
+        {
+          "name": "Фильм 1084736",
+          "language": "ru"
+        }
+      ],
+      "description": "Описание фильма",
+      "shortDescription": "Краткое описание",
+      "slogan": "Слоган",
+      "type": "movie",
+      "typeNumber": 1,
+      "isSeries": false,
+      "status": "released",
+      "year": 2024,
+      "releaseQuality": "4K",
+      "releaseYears": null,
+      "rating": {
+        "kp": 7.0,
+        "imdb": 7.0,
+        "tmdb": 7.0,
+        "filmCritics": null,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "ratingMpaa": "PG-13",
+      "ageRating": 12,
+      "votes": {
+        "kp": 1000,
+        "imdb": 100,
+        "tmdb": 100,
+        "filmCritics": null,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "seasonsInfo": null,
+      "budget": null,
+      "audience": null,
+      "movieLength": 120,
+      "seriesLength": null,
+      "totalSeriesLength": null,
+      "genres": [
+        {
+          "name": "драма"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/poster1084736.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/poster1084736.jpg"
+      },
+      "backdrop": null,
+      "logo": null,
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": []
+      },
+      "networks": null,
+      "persons": [],
+      "facts": [],
+      "fees": null,
+      "premiere": null,
+      "similarMovies": [],
+      "sequelsAndPrequels": [],
+      "watchability": {
+        "items": []
+      },
+      "lists": [],
+      "top10": null,
+      "top250": null,
+      "updatedAt": "2025-11-14T00:00:00.000Z",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 1022789,
+      "externalId": {
+        "imdb": "tt1022789",
+        "tmdb": null,
+        "kpHD": "1022789"
+      },
+      "name": "Фильм 1022789",
+      "enName": "Movie 1022789",
+      "alternativeName": "Movie 1022789",
+      "names": [
+        {
+          "name": "Фильм 1022789",
+          "language": "ru"
+        }
+      ],
+      "description": "Описание фильма",
+      "shortDescription": "Краткое описание",
+      "slogan": "Слоган",
+      "type": "movie",
+      "typeNumber": 1,
+      "isSeries": false,
+      "status": "released",
+      "year": 2024,
+      "releaseQuality": "4K",
+      "releaseYears": null,
+      "rating": {
+        "kp": 7.0,
+        "imdb": 7.0,
+        "tmdb": 7.0,
+        "filmCritics": null,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "ratingMpaa": "PG-13",
+      "ageRating": 12,
+      "votes": {
+        "kp": 1000,
+        "imdb": 100,
+        "tmdb": 100,
+        "filmCritics": null,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "seasonsInfo": null,
+      "budget": null,
+      "audience": null,
+      "movieLength": 120,
+      "seriesLength": null,
+      "totalSeriesLength": null,
+      "genres": [
+        {
+          "name": "драма"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/poster1022789.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/poster1022789.jpg"
+      },
+      "backdrop": null,
+      "logo": null,
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": []
+      },
+      "networks": null,
+      "persons": [],
+      "facts": [],
+      "fees": null,
+      "premiere": null,
+      "similarMovies": [],
+      "sequelsAndPrequels": [],
+      "watchability": {
+        "items": []
+      },
+      "lists": [],
+      "top10": null,
+      "top250": null,
+      "updatedAt": "2025-11-14T00:00:00.000Z",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 866398,
+      "externalId": {
+        "imdb": "tt866398",
+        "tmdb": null,
+        "kpHD": "866398"
+      },
+      "name": "Фильм 866398",
+      "enName": "Movie 866398",
+      "alternativeName": "Movie 866398",
+      "names": [
+        {
+          "name": "Фильм 866398",
+          "language": "ru"
+        }
+      ],
+      "description": "Описание фильма",
+      "shortDescription": "Краткое описание",
+      "slogan": "Слоган",
+      "type": "movie",
+      "typeNumber": 1,
+      "isSeries": false,
+      "status": "released",
+      "year": 2024,
+      "releaseQuality": "4K",
+      "releaseYears": null,
+      "rating": {
+        "kp": 7.0,
+        "imdb": 7.0,
+        "tmdb": 7.0,
+        "filmCritics": null,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "ratingMpaa": "PG-13",
+      "ageRating": 12,
+      "votes": {
+        "kp": 1000,
+        "imdb": 100,
+        "tmdb": 100,
+        "filmCritics": null,
+        "russianFilmCritics": null,
+        "await": null
+      },
+      "seasonsInfo": null,
+      "budget": null,
+      "audience": null,
+      "movieLength": 120,
+      "seriesLength": null,
+      "totalSeriesLength": null,
+      "genres": [
+        {
+          "name": "драма"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "poster": {
+        "url": "https://image.tmdb.org/t/p/original/poster866398.jpg",
+        "previewUrl": "https://image.tmdb.org/t/p/w500/poster866398.jpg"
+      },
+      "backdrop": null,
+      "logo": null,
+      "ticketsOnSale": false,
+      "videos": {
+        "trailers": []
+      },
+      "networks": null,
+      "persons": [],
+      "facts": [],
+      "fees": null,
+      "premiere": null,
+      "similarMovies": [],
+      "sequelsAndPrequels": [],
+      "watchability": {
+        "items": []
+      },
+      "lists": [],
+      "top10": null,
+      "top250": null,
+      "updatedAt": "2025-11-14T00:00:00.000Z",
+      "createdAt": "2024-01-01T00:00:00.000Z"
     }
   ],
   "total": 86965,
